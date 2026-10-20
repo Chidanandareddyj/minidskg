@@ -1,0 +1,2105 @@
+paper_id,dataset_id,alias,field
+W2734358244,mnist,MNIST dataset,abstract
+W3044983307,mnist,MNIST dataset,title
+W3044983307,fashion-mnist,Fashion-MNIST,title
+W2590796488,mnist,MNIST dataset,abstract
+W2966275995,mnist,MNIST dataset,abstract
+W2946086434,mnist,MNIST dataset,abstract
+W7160293594,mnist,MNIST dataset,title
+W2007339694,mnist,MNIST,title
+W2182396527,mnist,MNIST,title
+W7172060653,mnist,MNIST dataset,title
+W2963076808,mnist,MNIST,title
+W4394382509,cifar-10,CIFAR-10,abstract
+W4394382509,mnist,MNIST,abstract
+W7166449166,mnist,MNIST dataset,abstract
+W7166449166,fashion-mnist,Fashion MNIST,abstract
+W2750384547,mnist,MNIST dataset,abstract
+W2750384547,fashion-mnist,Fashion-MNIST,title
+W7127365387,mnist,MNIST,title
+W4301599248,mnist,MNIST,title
+W4393536318,mnist,MNIST dataset,abstract
+W3023361272,mnist,MNIST dataset,abstract
+W2980504251,mnist,MNIST,title
+W7117254351,mnist,MNIST,title
+W4393818172,mnist,MNIST dataset,abstract
+W4394088528,mnist,MNIST,title
+W4394268033,mnist,MNIST,title
+W4394256639,mnist,MNIST dataset,abstract
+W4412812287,mnist,MNIST dataset,abstract
+W4412812287,svhn,SVHN,title
+W4394446167,mnist,MNIST dataset,abstract
+W4403339010,mnist,MNIST dataset,title
+W4403339010,fashion-mnist,Fashion-MNIST,title
+W3111443789,fashion-mnist,Fashion-MNIST,title
+W3111443789,mnist,MNIST,title
+W2976328121,fashion-mnist,Fashion MNIST,title
+W2976328121,mnist,MNIST,title
+W4385838045,mnist,MNIST dataset,abstract
+W4385838045,fashion-mnist,Fashion-MNIST,title
+W3130921877,mnist,MNIST dataset,title
+W3130921877,fashion-mnist,Fashion-MNIST,title
+W4311661959,mnist,MNIST dataset,title
+W4311661959,fashion-mnist,Fashion-MNIST,title
+W3013696689,mnist,MNIST dataset,title
+W3013696689,fashion-mnist,Fashion MNIST,title
+W4392539252,mnist,MNIST dataset,title
+W4392539252,fashion-mnist,Fashion-MNIST,title
+W4283836471,mnist,MNIST dataset,abstract
+W4283836471,fashion-mnist,Fashion-MNIST,title
+W7160720370,mnist,MNIST dataset,title
+W7160720370,fashion-mnist,Fashion-MNIST,title
+W7124318787,mnist,MNIST dataset,abstract
+W7124318787,fashion-mnist,Fashion-MNIST,title
+W7125653619,mnist,MNIST dataset,title
+W7125653619,fashion-mnist,Fashion-MNIST,title
+W4283735679,mnist,MNIST dataset,abstract
+W4283735679,fashion-mnist,Fashion-MNIST,title
+W4405928746,mnist,MNIST dataset,title
+W4405928746,fashion-mnist,Fashion-MNIST,title
+W2950475743,fashion-mnist,Fashion-MNIST,title
+W2950475743,mnist,MNIST,title
+W4405706757,mnist,MNIST dataset,title
+W4405706757,fashion-mnist,Fashion MNIST,title
+W4281383929,fashion-mnist,Fashion-MNIST,title
+W4281383929,mnist,MNIST,title
+W7208418644,fashion-mnist,Fashion-MNIST,title
+W7208418644,mnist,MNIST,title
+W4411575804,mnist,MNIST dataset,abstract
+W4411575804,fashion-mnist,Fashion-MNIST,abstract
+W4353080387,fashion-mnist,Fashion-MNIST,title
+W4353080387,mnist,MNIST,title
+W3198754422,fashion-mnist,Fashion MNIST,title
+W3198754422,mnist,MNIST,title
+W4409699079,mnist,MNIST dataset,abstract
+W4409699079,fashion-mnist,Fashion-MNIST,abstract
+W4409699240,mnist,MNIST dataset,abstract
+W4409699240,fashion-mnist,Fashion-MNIST,abstract
+W2806021783,cifar-10,CIFAR-10,title
+W4394639701,cifar-10,CIFAR-10,title
+W4394639701,imagenet,ImageNet,title
+W2895171208,cifar-10,CIFAR-10,title
+W2895171208,imagenet,ImageNet,title
+W3208450494,cifar-10,CIFAR-10,title
+W2553625606,cifar-10,CIFAR-10,title
+W2894930827,cifar-10,CIFAR-10,title
+W2954318041,cifar-10,CIFAR-10,title
+W4210695660,cifar-10,CIFAR-10,title
+W2893345206,cifar-10,CIFAR-10,title
+W3016118517,cifar-10,CIFAR-10,title
+W2997631644,cifar-10,CIFAR-10,title
+W2950843262,cifar-10,CIFAR-10,title
+W4287028333,cifar-100,CIFAR-100,title
+W4287028333,cifar-10,CIFAR-10,title
+W4385059368,cifar-10,CIFAR-10,title
+W4393788674,cifar-10,CIFAR-10,title
+W7114907525,cifar-10,CIFAR-10,title
+W7114907525,mnist,MNIST,title
+W7171796283,cifar-10,CIFAR-10,title
+W3005344570,cifar-10,CIFAR-10,title
+W3005344570,imagenet,ImageNet,abstract
+W4393833062,cifar-100,CIFAR-100,abstract
+W4393833062,cifar-10,CIFAR-10,title
+W4393833062,imagenet,ImageNet,abstract
+W3092078943,cifar-10,CIFAR-10,title
+W7215456384,cifar-10,CIFAR-10,title
+W4403126298,cifar-10,CIFAR-10,title
+W4393905284,cifar-10,CIFAR-10,title
+W4399376472,cifar-10,CIFAR-10,title
+W2910152480,cifar-10,CIFAR-10,title
+W7129012311,cifar-100,CIFAR-100,title
+W7129012311,cifar-10,CIFAR-10,abstract
+W3210609408,cifar-100,CIFAR-100,title
+W4393469805,cifar-100,CIFAR-100,title
+W4393469805,cifar-10,CIFAR-10,abstract
+W4393469805,imagenet,ImageNet,abstract
+W4392203282,cifar-100,CIFAR-100,title
+W4408463119,cifar-100,CIFAR-100,title
+W4416626318,cifar-100,CIFAR-100,title
+W4410210855,cifar-100,CIFAR-100,title
+W4410210855,cifar-10,CIFAR-10,title
+W7204033861,cifar-100,CIFAR-100,title
+W7162408827,cifar-100,CIFAR-100,title
+W7164417262,cifar-100,CIFAR-100,title
+W7164417262,cifar-10,CIFAR-10,abstract
+W7166082409,cifar-100,CIFAR-100,title
+W4411420824,mnist,MNIST dataset,abstract
+W4411420824,cifar-100,CIFAR-100,title
+W7166019047,cifar-100,CIFAR-100,title
+W7164671049,cifar-100,CIFAR-100,title
+W7164671049,cifar-10,CIFAR-10,abstract
+W4393686882,cifar-100,CIFAR-100,title
+W4388934113,cifar-100,CIFAR-100,title
+W7125590719,cifar-100,CIFAR-100,title
+W4403853146,cifar-100,CIFAR-100,title
+W7213473448,cifar-100,CIFAR-100,title
+W4384947529,cifar-100,CIFAR-100,title
+W4220764408,cifar-100,CIFAR-100,title
+W4220764408,imagenet,ImageNet,title
+W7204031913,cifar-100,CIFAR-100,title
+W7204031913,stl-10,STL-10,title
+W7220371521,cifar-100,CIFAR-100,title
+W7220371521,cifar-10,CIFAR-10,title
+W7133338385,cifar-10,CIFAR-10,title
+W7124441533,stl-10,STL-10,title
+W2971432791,cifar-10,CIFAR-10,title
+W2971432791,stl-10,STL-10,title
+W2943865428,cifar-10,CIFAR-10,abstract
+W2943865428,stl-10,STL-10,abstract
+W4293577678,stl-10,STL-10,abstract
+W2989221291,cifar-10,CIFAR-10,abstract
+W2989221291,stl-10,STL-10,abstract
+W2801783499,imagenet,ImageNet,abstract
+W2801783499,stl-10,STL-10,abstract
+W2980231952,stl-10,STL-10,abstract
+W2603142085,cifar-10,CIFAR-10,abstract
+W2603142085,imagenet,ImageNet,abstract
+W2603142085,stl-10,STL-10,abstract
+W4385728838,cifar-100,CIFAR-100,abstract
+W4385728838,cifar-10,CIFAR-10,abstract
+W4385728838,stl-10,STL-10,abstract
+W3041428787,stl-10,STL-10,abstract
+W4407682342,cifar-10,CIFAR-10,abstract
+W4407682342,stl-10,STL-10,abstract
+W4293396233,cifar-10,CIFAR-10,abstract
+W4293396233,stl-10,STL-10,abstract
+W1705056854,cifar-10,CIFAR-10,abstract
+W1705056854,stl-10,STL-10,abstract
+W2123872146,mnist,MNIST dataset,abstract
+W2123872146,cifar-10,CIFAR-10,abstract
+W2123872146,stl-10,STL-10,abstract
+W3127048385,cifar-10,CIFAR-10,abstract
+W3127048385,stl-10,STL-10,abstract
+W2962826096,cifar-100,CIFAR-100,abstract
+W2962826096,cifar-10,CIFAR-10,abstract
+W2962826096,imagenet,ImageNet,abstract
+W2962826096,stl-10,STL-10,abstract
+W1887168758,stl-10,STL-10,abstract
+W3208546413,cifar-100,CIFAR-100,abstract
+W3208546413,cifar-10,CIFAR-10,abstract
+W3208546413,stl-10,STL-10,abstract
+W3208546413,mnist,MNIST,abstract
+W3208546413,svhn,SVHN,abstract
+W7167695416,stl-10,STL-10,abstract
+W7167695416,mnist,MNIST,abstract
+W4412660052,stl-10,STL-10,abstract
+W2758188475,cifar-10,CIFAR-10,abstract
+W2758188475,stl-10,STL-10,abstract
+W4394421427,svhn,SVHN,title
+W4283025517,svhn,SVHN,title
+W4389470734,svhn,Street View House Numbers,abstract
+W4393587244,svhn,SVHN,title
+W7167042848,cifar-100,CIFAR100,title
+W7167042848,cifar-10,CIFAR10,title
+W7167042848,mnist,MNIST,title
+W7167042848,svhn,SVHN,title
+W4393683243,svhn,SVHN,title
+W3185122212,svhn,Street View House Numbers,title
+W4399374655,svhn,Street View House Numbers,abstract
+W7136173605,svhn,Street View House Numbers,abstract
+W2896687685,cifar-100,CIFAR-100,abstract
+W2896687685,cifar-10,CIFAR-10,abstract
+W2896687685,imagenet,ImageNet,abstract
+W2896687685,celeba,CelebA,abstract
+W2896687685,mnist,MNIST,abstract
+W2896687685,svhn,SVHN,abstract
+W2963636205,cifar-10,CIFAR-10,abstract
+W2963636205,mnist,MNIST,abstract
+W2963636205,svhn,SVHN,abstract
+W2921087533,cifar-10,CIFAR-10,abstract
+W2921087533,svhn,SVHN,abstract
+W2953097038,cifar-100,CIFAR-100,abstract
+W2953097038,cifar-10,CIFAR-10,abstract
+W2953097038,svhn,SVHN,abstract
+W1825672851,cifar-10,CIFAR-10,abstract
+W1825672851,mnist,MNIST,abstract
+W1825672851,svhn,SVHN,abstract
+W3091002423,cifar-10,CIFAR-10,abstract
+W3091002423,imagenet,ImageNet,abstract
+W3091002423,svhn,SVHN,abstract
+W2946822591,cifar-100,CIFAR-100,abstract
+W2946822591,cifar-10,CIFAR-10,abstract
+W2946822591,svhn,SVHN,abstract
+W2938535438,fashion-mnist,Fashion MNIST,abstract
+W2938535438,cifar-10,CIFAR10,abstract
+W2938535438,mnist,MNIST,abstract
+W2938535438,svhn,SVHN,abstract
+W2947099774,cifar-10,CIFAR-10,abstract
+W2947099774,svhn,SVHN,abstract
+W2971606273,svhn,SVHN,abstract
+W2971473720,mnist,MNIST,abstract
+W2971473720,svhn,SVHN,abstract
+W2804047946,flowers-102,Oxford Flowers,abstract
+W2804047946,stanford-cars,Stanford Cars,abstract
+W2804047946,caltech-101,Caltech-101,abstract
+W2804047946,cifar-100,CIFAR-100,abstract
+W2804047946,cifar-10,CIFAR-10,abstract
+W2804047946,imagenet,ImageNet,abstract
+W2804047946,svhn,SVHN,abstract
+W2746314669,cifar-100,CIFAR-100,abstract
+W2746314669,cifar-10,CIFAR-10,abstract
+W2746314669,svhn,SVHN,abstract
+W2260663238,cifar-10,CIFAR-10,abstract
+W2260663238,mnist,MNIST,abstract
+W2260663238,svhn,SVHN,abstract
+W2432004435,cifar-10,CIFAR-10,abstract
+W2432004435,imagenet,ImageNet,abstract
+W2432004435,mnist,MNIST,abstract
+W2432004435,svhn,SVHN,abstract
+W2953937638,cifar-10,CIFAR-10,abstract
+W2953937638,imagenet,ImageNet,title
+W3034363135,imagenet,ImageNet,title
+W4239072543,imagenet,ImageNet,title
+W2108598243,imagenet,ImageNet,title
+W2804935296,imagenet,ImageNet,title
+W2991391304,coco,COCO dataset,abstract
+W2991391304,imagenet,ImageNet,title
+W2163605009,imagenet,ImageNet,title
+W2168371480,imagenet,ImageNet,title
+W2510153535,imagenet,ImageNet,title
+W2546241758,imagenet,ImageNet,title
+W2741430497,imagenet,ImageNet,title
+W3135159465,imagenet,ImageNet,title
+W2056568601,imagenet,ImageNet,title
+W2962747323,imagenet,ImageNet-1K,abstract
+W3154871414,imagenet,ImageNet-1K,abstract
+W4393754151,imagenet,ImageNet,title
+W4298212933,imagenet,ImageNet,title
+W2962934715,activitynet,ActivityNet,abstract
+W2962934715,imagenet,ImageNet,title
+W2962934715,ucf-101,UCF-101,abstract
+W2962934715,hmdb51,HMDB-51,abstract
+W3121523901,imagenet,ImageNet,title
+W2560696501,imagenet,ImageNet,title
+W1677182931,imagenet,ImageNet,title
+W3035160371,imagenet,ImageNet,title
+W3204130547,imagenet,ImageNet,title
+W2941030194,tiny-imagenet,Tiny ImageNet,title
+W2941030194,imagenet,ImageNet,title
+W4393540329,tiny-imagenet,Tiny-ImageNet,title
+W4393540329,imagenet,ImageNet,title
+W4393453250,tiny-imagenet,Tiny ImageNet,title
+W4393453250,imagenet,ImageNet,title
+W4281488278,tiny-imagenet,Tiny ImageNet,title
+W4281488278,imagenet,ImageNet-1K,abstract
+W4281488278,cifar-10,CIFAR-10,abstract
+W4206021568,tiny-imagenet,Tiny ImageNet,title
+W4206021568,imagenet,ImageNet,title
+W7135217380,tiny-imagenet,Tiny ImageNet,title
+W7135217380,imagenet,ImageNet,title
+W3133106089,tiny-imagenet,Tiny ImageNet,title
+W3133106089,imagenet,ImageNet,title
+W7203938179,tiny-imagenet,Tiny-ImageNet,title
+W7203938179,imagenet,ImageNet,title
+W4393813809,tiny-imagenet,Tiny ImageNet,title
+W4393813809,imagenet,ImageNet,title
+W7155206204,tiny-imagenet,Tiny ImageNet,title
+W7155206204,imagenet,ImageNet,title
+W7133233076,tiny-imagenet,Tiny-ImageNet,abstract
+W7133233076,imagenet,ImageNet-1K,abstract
+W3030364939,tiny-imagenet,Tiny ImageNet,abstract
+W3030364939,imagenet,ImageNet,abstract
+W7160294324,tiny-imagenet,Tiny-ImageNet,abstract
+W7160294324,cifar-100,CIFAR-100,abstract
+W7160294324,imagenet,ImageNet,title
+W7133244571,tiny-imagenet,Tiny-ImageNet,abstract
+W7133244571,cifar-10,CIFAR-10,abstract
+W7133244571,imagenet,ImageNet,title
+W4415247752,tiny-imagenet,Tiny ImageNet,abstract
+W4415247752,cifar-100,CIFAR-100,abstract
+W4415247752,cifar-10,CIFAR-10,abstract
+W4415247752,imagenet,ImageNet,abstract
+W4402715869,tiny-imagenet,Tiny-ImageNet,abstract
+W4402715869,imagenet,ImageNet,abstract
+W7160501211,tiny-imagenet,Tiny-ImageNet,abstract
+W7160501211,imagenet,ImageNet,abstract
+W3102564617,tiny-imagenet,Tiny ImageNet,abstract
+W3102564617,imagenet,ImageNet,abstract
+W4385062106,tiny-imagenet,Tiny-ImageNet,abstract
+W4385062106,cifar-10,CIFAR-10,abstract
+W4385062106,imagenet,ImageNet,abstract
+W4385062106,stl-10,STL-10,abstract
+W4226530256,tiny-imagenet,Tiny-ImageNet,abstract
+W4226530256,imagenet,ImageNet,abstract
+W4410887638,tiny-imagenet,Tiny ImageNet,abstract
+W4410887638,imagenet,ImageNet,abstract
+W4410887638,mnist,MNIST,abstract
+W7133537726,tiny-imagenet,Tiny-ImageNet,abstract
+W7133537726,cifar-10,CIFAR-10,abstract
+W7133537726,imagenet,ImageNet,abstract
+W7162921438,tiny-imagenet,Tiny ImageNet,abstract
+W7162921438,cifar-100,CIFAR100,abstract
+W7162921438,imagenet,ImageNet,abstract
+W7162921438,cifar-10,CIFAR10,abstract
+W7162921438,mnist,MNIST,abstract
+W4403579548,tiny-imagenet,Tiny ImageNet,abstract
+W4403579548,cifar-100,CIFAR-100,abstract
+W4403579548,imagenet,ImageNet,abstract
+W3194573493,tiny-imagenet,Tiny ImageNet,abstract
+W3194573493,cifar-100,CIFAR100,abstract
+W3194573493,imagenet,ImageNet,abstract
+W3194573493,cifar-10,CIFAR10,abstract
+W4390045698,places365,Places365,title
+W7118131527,places365,Places365,title
+W7118131527,imagenet,ILSVRC,abstract
+W3107513704,places365,Places365,abstract
+W3107513704,imagenet,ImageNet,abstract
+W4417328046,places365,Places365,abstract
+W3034523045,places365,Places365,abstract
+W3034523045,imagenet,ImageNet,abstract
+W4394643157,pascal-voc,Pascal VOC,abstract
+W4394643157,places365,Places365,abstract
+W2968130309,places365,Places365,abstract
+W4403222875,places365,Places365,abstract
+W4403222875,imagenet,ImageNet,abstract
+W3174335067,places365,Places365,abstract
+W3174335067,imagenet,ImageNet,abstract
+W4312920106,places365,Places365,abstract
+W2888092998,places365,Places365,abstract
+W4415280982,places365,Places365,abstract
+W4223459530,places365,Places365,abstract
+W4223459530,imagenet,ImageNet,abstract
+W4399774763,places365,Places365,abstract
+W4399511695,places365,Places365,abstract
+W4399511695,imagenet,ImageNet,abstract
+W4399511695,coco,MS COCO,abstract
+W2962791778,imagenet,ImageNet-1K,abstract
+W2962791778,places365,Places365,abstract
+W2794335896,places365,Places365,abstract
+W4406459811,places365,Places365,abstract
+W4406459811,cifar-10,CIFAR10,abstract
+W4311593026,places365,Places365,abstract
+W4416184404,places365,Places365,abstract
+W4308234340,places365,Places365,abstract
+W3120940860,places365,Places365,abstract
+W3120940860,cifar-10,CIFAR-10,abstract
+W3120940860,imagenet,ImageNet,abstract
+W4414536678,places365,Places365,abstract
+W2982249444,places365,Places365,abstract
+W2982249444,imagenet,ImageNet,abstract
+W4282547501,places365,Places365,abstract
+W4394175452,caltech-101,Caltech-101,title
+W3184595572,caltech-101,Caltech-101,title
+W2122888889,caltech-101,Caltech-101,title
+W3159705710,caltech-101,Caltech-101,title
+W4416341582,caltech-101,Caltech-101,title
+W1576445103,caltech-101,Caltech-101,abstract
+W14333344,caltech-101,Caltech-101,abstract
+W14333344,pascal-voc,Pascal VOC,abstract
+W2546302380,mnist,MNIST dataset,abstract
+W2546302380,caltech-101,Caltech-101,abstract
+W2952186574,caltech-101,Caltech-101,abstract
+W2952186574,imagenet,ImageNet,abstract
+W2148596671,caltech-101,Caltech-101,abstract
+W2206858481,caltech-101,Caltech-101,abstract
+W2206858481,imagenet,ImageNet,abstract
+W2162915993,caltech-101,Caltech-101,abstract
+W4399601404,pascal-voc,Pascal VOC,abstract
+W2139427956,mnist,MNIST,abstract
+W2752208017,caltech-101,Caltech-101,abstract
+W2752208017,cifar-10,CIFAR-10,abstract
+W2766872722,mnist,MNIST dataset,abstract
+W2766872722,caltech-101,Caltech-101,abstract
+W2129492014,flowers-102,Oxford 102 Flower,abstract
+W7165060532,flowers-102,Oxford 102 Flower,abstract
+W3035611795,flowers-102,Oxford Flowers,abstract
+W2954007192,flowers-102,Oxford 102 Flower,abstract
+W4210459499,flowers-102,Oxford 102 Flower,abstract
+W7215917250,flowers-102,Oxford Flowers-102,abstract
+W7215917250,cifar-10,CIFAR-10,abstract
+W7215917250,svhn,SVHN,abstract
+W7219431370,flowers-102,Oxford Flowers-102,abstract
+W7219431370,cifar-10,CIFAR-10,abstract
+W7219431370,svhn,SVHN,abstract
+W4394489656,celeba,CelebA dataset,abstract
+W4394415283,celeba,CelebA,title
+W7128029357,celeba,CelebA,title
+W7153616849,celeba,CelebA dataset,abstract
+W7127944156,celeba,CelebA,title
+W7127920154,celeba,CelebA,title
+W4320523377,celeba,CelebA,title
+W4385801484,celeba,CelebA,title
+W3183735461,celeba,CelebA,title
+W7128209505,celeba,CelebA,title
+W4413147389,celeba,CelebA dataset,abstract
+W3153183959,celeba,CelebA,title
+W7161551229,celeba,CelebA,title
+W3131975177,celeba,CelebA,title
+W4403565111,celeba,CelebA dataset,title
+W7222954732,celeba,CelebA dataset,abstract
+W7222954732,cifar-100,CIFAR100,title
+W7222954732,cifar-10,CIFAR10,title
+W7155213896,celeba,CelebA dataset,title
+W4405877883,celeba,CelebA,title
+W7171816835,celeba,CelebA,title
+W2965541446,celeba,CelebA,title
+W7111775988,celeba,CelebA dataset,abstract
+W7211906521,celeba,CelebA,title
+W2969717149,celeba,CelebA,abstract
+W2980688251,celeba,CelebA dataset,abstract
+W3019705844,celeba,CelebA dataset,abstract
+W2111440402,lfw,Labeled Faces in the Wild,abstract
+W4394290437,lfw,LFW,abstract
+W2515442425,lfw,Labeled Faces in the Wild,abstract
+W2752828042,lfw,Labeled Faces in the Wild,abstract
+W4394151210,lfw,LFW,abstract
+W2743653260,lfw,LFW,title
+W7128166869,lfw,LFW,title
+W1505701726,lfw,LFW,title
+W2903063383,lfw,LFW,title
+W3089306926,lfw,LFW,title
+W3194367448,lfw,Labeled Faces in the Wild,abstract
+W2074463288,lfw,LFW,title
+W4248367933,lfw,LFW,title
+W4407929663,lfw,Labeled Faces in the Wild,abstract
+W2732988371,lfw,LFW,title
+W4407237750,lfw,LFW,title
+W4221153538,lfw,Labeled Faces in the Wild,abstract
+W1787299031,lfw,LFW,title
+W2608929497,lfw,LFW,title
+W2069949495,lfw,LFW,title
+W4393819155,lfw,LFW,title
+W3088252407,lfw,LFW,title
+W7110809414,stanford-cars,Stanford Cars,title
+W3167738759,stanford-cars,Stanford Cars,abstract
+W3035367622,stanford-cars,Stanford Cars,abstract
+W2811104224,stanford-cars,Stanford Cars dataset,abstract
+W4226067450,stanford-cars,Stanford Cars,abstract
+W4226067450,imagenet,ImageNet,abstract
+W7165511665,stanford-cars,Stanford Cars,abstract
+W3108752471,stanford-cars,Stanford Cars,abstract
+W2971048680,stanford-cars,Stanford Cars dataset,abstract
+W4320008793,stanford-cars,Stanford Cars dataset,abstract
+W4294953517,stanford-cars,Stanford Cars,abstract
+W3008809756,stanford-cars,Stanford Cars,abstract
+W3008809756,flowers-102,Flowers-102,abstract
+W4400276573,stanford-cars,Stanford Cars,abstract
+W7220886908,stanford-cars,Stanford Cars,abstract
+W3176379046,stanford-cars,Stanford Cars,abstract
+W3117510992,stanford-cars,Stanford Cars,abstract
+W2896572288,stanford-cars,Stanford Cars,abstract
+W4412996754,stanford-cars,Stanford Cars,abstract
+W4412996754,cityscapes,Cityscapes,title
+W4412996754,ade20k,ADE20K,title
+W3203982722,stanford-cars,Stanford Cars,abstract
+W7165831712,stanford-cars,Stanford Cars,abstract
+W7165831712,cifar-10,CIFAR-10,abstract
+W2963566548,wider-face,WIDER FACE,title
+W4233472642,pubmed,PubMed,abstract
+W2916994131,wider-face,WIDER FACE,title
+W4308793914,wider-face,WIDER FACE,title
+W4417404964,wider-face,WIDER FACE,title
+W3003965678,wider-face,WIDER FACE,title
+W4394405737,coco,MS COCO,title
+W4388482607,coco,MS-COCO,title
+W3155594712,coco,COCO dataset,abstract
+W2753104661,coco,MS COCO,title
+W4402915450,coco,COCO dataset,title
+W4402915450,shapenet,ShapeNet,abstract
+W3021471522,coco,COCO dataset,abstract
+W4394673439,coco,COCO dataset,title
+W4394673439,shapenet,ShapeNet,abstract
+W7128702956,coco,COCO dataset,title
+W7139334283,coco,MS COCO,title
+W2922528927,coco,MS COCO,title
+W4394187077,coco,MS COCO,title
+W4394428609,coco,MS COCO,title
+W4394156483,coco,MS COCO,title
+W4411033746,imagenet,ImageNet,title
+W4411033746,coco,MS COCO,title
+W4297195346,coco,MS COCO,title
+W4313315888,coco,COCO dataset,abstract
+W7213357145,coco,MS-COCO,title
+W7151711078,coco,MS-COCO,title
+W7154897157,coco,MS-COCO,title
+W4405580175,coco,MS COCO,title
+W2963527096,coco,MS-COCO,abstract
+W4393717817,coco,MS COCO,abstract
+W1977792424,pascal-voc,Pascal VOC,title
+W4393783444,pascal-voc,Pascal VOC,title
+W7124148630,pascal-voc,Pascal VOC,title
+W4398750036,pascal-voc,Pascal VOC,title
+W4367189753,pascal-voc,Pascal VOC,title
+W4393464670,pascal-voc,Pascal VOC,title
+W2547098497,pascal-voc,Pascal VOC,title
+W2493838176,pascal-voc,Pascal VOC,title
+W2527199048,pascal-voc,Pascal VOC,title
+W4393844215,pascal-voc,Pascal VOC,title
+W7119307376,pascal-voc,Pascal VOC,title
+W4383501527,pascal-voc,Pascal VOC,title
+W1967224681,pascal-voc,Pascal VOC,title
+W2337429362,pascal-voc,Pascal VOC,abstract
+W2300687442,pascal-voc,Pascal VOC,abstract
+W2300687442,coco,MS COCO,abstract
+W4394047460,pascal-voc,Pascal VOC,abstract
+W2104446196,pascal-voc,Pascal VOC,abstract
+W2104446196,imagenet,ImageNet,abstract
+W2921781974,pascal-voc,Pascal VOC,abstract
+W2161381512,pascal-voc,Pascal VOC,abstract
+W2161381512,imagenet,ImageNet,abstract
+W3178291178,pascal-voc,Pascal VOC,abstract
+W3178291178,coco,MS-COCO,abstract
+W1945608308,pascal-voc,Pascal VOC,abstract
+W1945608308,imagenet,ImageNet,abstract
+W2104408738,pascal-voc,Pascal VOC,abstract
+W2949513689,pascal-voc,Pascal VOC,abstract
+W2949513689,imagenet,ImageNet,abstract
+W3176331203,pascal-voc,Pascal VOC,abstract
+W2899505139,open-images,Open Images Dataset,title
+W4413676306,open-images,Open Images,abstract
+W2155453525,open-images,Open Images,title
+W4288083516,open-images,Open Images Dataset,title
+W2395962200,open-images,Open Images,title
+W3121480429,open-images,Open Images Dataset,title
+W2164146897,open-images,Open Images,title
+W2012271608,open-images,Open Images,title
+W4408785443,open-images,Open Images,title
+W2261618947,open-images,Open Images,title
+W2976224184,open-images,Open Images,title
+W2918616639,open-images,Open Images,title
+W2297742701,open-images,Open Images,title
+W2372554546,open-images,Open Images,title
+W2006220009,open-images,Open Images,title
+W2176214652,open-images,Open Images,title
+W2466613546,open-images,Open Images,title
+W4249311858,cityscapes,Cityscapes,title
+W2340897893,cityscapes,Cityscapes dataset,title
+W2438962998,cityscapes,Cityscapes dataset,title
+W2953139137,cityscapes,Cityscapes dataset,title
+W413739855,cityscapes,Cityscapes,title
+W4301263515,cityscapes,Cityscapes,abstract
+W4244868965,cityscapes,Cityscapes,abstract
+W4243930181,cityscapes,Cityscapes,title
+W4383815086,cityscapes,Cityscapes,abstract
+W4230516707,cityscapes,Cityscapes,title
+W3003313551,cityscapes,Cityscapes,title
+W2941704933,cityscapes,Cityscapes,title
+W4220819424,cityscapes,Cityscapes,title
+W4285102642,cityscapes,Cityscapes dataset,title
+W2066186317,cityscapes,Cityscapes,abstract
+W108430933,cityscapes,Cityscapes,title
+W4236177442,cityscapes,Cityscapes,title
+W7111298773,cityscapes,Cityscapes,title
+W7110505151,cityscapes,Cityscapes,title
+W4206340529,cityscapes,Cityscapes,title
+W7123246068,cityscapes,Cityscapes,title
+W2737258237,ade20k,ADE20K,title
+W7129218871,ade20k,ADE20K,title
+W3170841864,cityscapes,Cityscapes,abstract
+W3170841864,ade20k,ADE20K,abstract
+W4285531802,cityscapes,Cityscapes,abstract
+W4285531802,ade20k,ADE20K,abstract
+W2985459778,pascal-voc,Pascal VOC,abstract
+W2985459778,coco,MS COCO,abstract
+W2985459778,ade20k,ADE20K,abstract
+W3161838454,cityscapes,Cityscapes,abstract
+W3161838454,ade20k,ADE20K,abstract
+W2963136578,pascal-voc,Pascal VOC,abstract
+W2963136578,cityscapes,Cityscapes,abstract
+W2963136578,imagenet,ImageNet,abstract
+W2963136578,ade20k,ADE20K,abstract
+W3136635488,ade20k,ADE20K,abstract
+W3136635488,kitti,KITTI,abstract
+W4285483923,ade20k,ADE20K,abstract
+W2963727650,pascal-voc,Pascal VOC,abstract
+W2963727650,cifar-10,CIFAR-10,abstract
+W2963727650,ade20k,ADE20K,abstract
+W3003733889,ade20k,ADE20K,abstract
+W4226401733,ade20k,ADE20K,abstract
+W4399729838,cityscapes,Cityscapes,abstract
+W2924464923,ade20k,ADE20K,abstract
+W2604254608,ade20k,ADE20K,abstract
+W2955813853,pascal-voc,Pascal VOC,abstract
+W2955813853,ade20k,ADE20K,abstract
+W4390189979,cityscapes,Cityscapes dataset,abstract
+W4390189979,ade20k,ADE20K,abstract
+W4392982281,cityscapes,Cityscapes,abstract
+W4392982281,ade20k,ADE20K,abstract
+W4386075819,ade20k,ADE20K,abstract
+W4386076046,pascal-voc,Pascal VOC,abstract
+W4386076046,ade20k,ADE20K,abstract
+W3208094801,cityscapes,Cityscapes,abstract
+W3208094801,ade20k,ADE20K,abstract
+W4386076571,cityscapes,Cityscapes,abstract
+W4386076571,ade20k,ADE20K,abstract
+W2115579991,kitti,KITTI dataset,title
+W3196813118,kitti,KITTI dataset,abstract
+W2150066425,kitti,KITTI Vision Benchmark,title
+W7112849937,kitti,KITTI dataset,title
+W4393630763,kitti,KITTI,title
+W4394671465,kitti,KITTI dataset,abstract
+W7111152254,kitti,KITTI,title
+W4394096122,kitti,KITTI,title
+W4394263924,kitti,KITTI dataset,abstract
+W3203597819,kitti,KITTI dataset,abstract
+W4393826054,kitti,KITTI,title
+W4393541137,kitti,KITTI,title
+W3120831990,kitti,KITTI dataset,title
+W3082939124,kitti,KITTI dataset,title
+W3010312695,kitti,KITTI,title
+W3198161249,kitti,KITTI dataset,title
+W2160445453,kitti,KITTI,title
+W4416183883,kitti,KITTI,title
+W7220729823,kitti,KITTI,title
+W4385275388,kitti,KITTI dataset,abstract
+W4315488865,kitti,KITTI Vision Benchmark,abstract
+W7117466429,kitti,KITTI dataset,title
+W2925148167,kitti,KITTI dataset,abstract
+W2925148167,nuscenes,nuScenes,title
+W4394095516,nuscenes,nuScenes,title
+W3198790326,nuscenes,nuScenes dataset,abstract
+W4393447829,nuscenes,nuScenes dataset,abstract
+W4393548400,nuscenes,nuScenes dataset,abstract
+W7106490536,nuscenes,nuScenes,title
+W7106578071,nuscenes,nuScenes,title
+W7131069840,nuscenes,nuScenes dataset,title
+W7153764895,nuscenes,nuScenes,title
+W7153764895,kitti,KITTI,title
+W7167628865,nuscenes,nuScenes dataset,title
+W4393148430,nuscenes,nuScenes,title
+W4393148430,vqa,VQA,abstract
+W4417005384,nuscenes,nuScenes dataset,abstract
+W7172059443,nuscenes,nuScenes dataset,abstract
+W7125956836,nuscenes,nuScenes dataset,abstract
+W7214704911,nuscenes,nuScenes,title
+W4377121563,nuscenes,nuScenes dataset,abstract
+W4385801266,nuscenes,nuScenes dataset,abstract
+W4417277173,nuscenes,nuScenes dataset,abstract
+W3093149081,nuscenes,nuScenes,title
+W4405432546,nuscenes,nuScenes,title
+W4390189928,nuscenes,nuScenes dataset,abstract
+W4385801443,nuscenes,nuScenes,title
+W4281625434,nuscenes,nuScenes dataset,title
+W4281625434,kitti,KITTI,abstract
+W7220734184,waymo-open,Waymo Open Dataset,abstract
+W7220734184,nuscenes,nuScenes,title
+W7220734184,kitti,KITTI,title
+W4394843896,nuscenes,nuScenes,title
+W4394843896,vqa,VQA,abstract
+W3035172746,waymo-open,Waymo Open Dataset,title
+W3005781127,waymo-open,Waymo Open Dataset,title
+W4360596535,waymo-open,Waymo Open Dataset,title
+W3037607327,waymo-open,Waymo Open Dataset,title
+W3037825025,waymo-open,Waymo Open Dataset,title
+W3175846102,waymo-open,Waymo Open Dataset,title
+W4297899246,waymo-open,Waymo Open Dataset,title
+W4368372096,waymo-open,Waymo Open Dataset,title
+W3037262931,waymo-open,Waymo Open Dataset,title
+W4415515001,waymo-open,Waymo Open Dataset,title
+W4406072894,waymo-open,Waymo Open Dataset,title
+W7215072794,waymo-open,Waymo Open Dataset,title
+W3047055470,waymo-open,Waymo Open Dataset,title
+W3172835039,waymo-open,Waymo Open Dataset,title
+W4406316518,waymo-open,Waymo Open Dataset,title
+W4402705642,waymo-open,Waymo Open Dataset,title
+W3082656595,waymo-open,Waymo Open Dataset,title
+W3156216502,waymo-open,Waymo Open,title
+W4416183728,waymo-open,Waymo Open,title
+W7160327127,waymo-open,Waymo Open,title
+W4385894002,waymo-open,Waymo Open,title
+W7204489983,waymo-open,Waymo Open,title
+W4416719957,waymo-open,Waymo Open,title
+W4404388876,waymo-open,Waymo Open Dataset,abstract
+W7133266969,waymo-open,Waymo Open,title
+W2964062189,mpii,MPII Human Pose,abstract
+W2907715846,mpii,MPII Human Pose,abstract
+W2907715846,coco,MS COCO,abstract
+W2080873731,mpii,MPII Human Pose,abstract
+W2916798096,mpii,MPII Human Pose,abstract
+W2604375920,human36m,Human3.6M,abstract
+W2604375920,mpii,MPII,abstract
+W2530372461,mpii,MPII Human Pose,abstract
+W4285601475,mpii,MPII Human Pose,abstract
+W1537698211,mpii,MPII,abstract
+W2793813056,mpii,MPII Human Pose,abstract
+W2950735449,mpii,MPII Human Pose,abstract
+W2949962589,mpii,MPII Human Pose,abstract
+W2798646183,mpii,MPII,abstract
+W3034750257,mpii,MPII,abstract
+W3163536939,mpii,MPII Human Pose,abstract
+W2876488854,mpii,MPII Human Pose,abstract
+W4307744895,mpii,MPII Human Pose,abstract
+W4384698056,mpii,MPII Human Pose,abstract
+W3111149513,mpii,MPII Human Pose,abstract
+W2751273146,mpii,MPII Human Pose,abstract
+W2751273146,coco,MS-COCO,abstract
+W4391580152,mpii,MPII Human Pose,abstract
+W4378175527,mpii,MPII Human Pose,abstract
+W2936863388,mpii,MPII Human Pose,abstract
+W4404366881,mpii,MPII Human Pose,abstract
+W3186885009,mpii,MPII Human Pose,abstract
+W4362471766,mpii,MPII Human Pose,abstract
+W24089286,ucf-101,UCF-101,title
+W7160736576,ucf-101,UCF-101,title
+W2141320374,ucf-101,UCF-101,title
+W7160567851,ucf-101,UCF-101,title
+W7111746942,ucf-101,UCF-101,title
+W2017593092,ucf-101,UCF-101,abstract
+W4411430409,ucf-101,UCF-101,abstract
+W2410297110,ucf-101,UCF-101,title
+W7164552789,ssv2,Something-Something V2,abstract
+W7164552789,imagenet,ImageNet,abstract
+W7164552789,ucf-101,UCF-101,title
+W7164552592,ssv2,Something-Something V2,abstract
+W7164552592,imagenet,ImageNet,abstract
+W7164552592,ucf-101,UCF-101,title
+W2366145966,ucf-101,UCF-101,title
+W1594506912,ucf-101,UCF-101,abstract
+W4394910898,ucf-101,UCF-101,title
+W4408186751,ucf-101,UCF-101,title
+W4295733127,ucf-101,UCF-101,abstract
+W2619082050,imagenet,ImageNet,abstract
+W2619082050,ucf-101,UCF-101,abstract
+W2619082050,hmdb51,HMDB-51,abstract
+W1992681586,ucf-101,UCF-101,abstract
+W2016053056,ucf-101,UCF-101,abstract
+W2940884809,ucf-101,UCF-101,abstract
+W4393594206,human36m,Human 3.6M,abstract
+W4390874109,human36m,Human3.6M,title
+W2101032778,human36m,Human3.6M,title
+W4414230898,human36m,Human3.6M,title
+W4293868182,human36m,Human 3.6M,abstract
+W4394597906,human36m,Human3.6M,abstract
+W2945071622,human36m,Human3.6M,abstract
+W2903549000,human36m,Human3.6M,abstract
+W3136525061,human36m,Human3.6M,abstract
+W4390873166,human36m,Human3.6M,abstract
+W2583585015,human36m,Human3.6M,abstract
+W3022650089,human36m,Human3.6M,abstract
+W4386075813,human36m,Human3.6M,abstract
+W2963688992,human36m,Human3.6M,abstract
+W2963548793,human36m,Human3.6M,abstract
+W3184641178,human36m,Human3.6M,abstract
+W2607738331,human36m,Human3.6M,abstract
+W4319299814,human36m,Human3.6M,abstract
+W2270288817,human36m,Human3.6M,abstract
+W4220889608,human36m,Human3.6M,abstract
+W3011563760,human36m,Human3.6M,abstract
+W3011563760,mpii,MPII,abstract
+W2989465897,human36m,Human3.6M,abstract
+W2725422033,human36m,Human3.6M,abstract
+W4409156472,human36m,Human3.6M,abstract
+W7128391443,hmdb51,HMDB51,title
+W7164575860,ssv2,Something-Something V2,abstract
+W7164575860,imagenet,ImageNet,abstract
+W7164575860,ucf-101,UCF-101,abstract
+W7164575860,hmdb51,HMDB51,title
+W4416461785,ucf-101,UCF101,title
+W4416461785,hmdb51,HMDB51,title
+W4384299378,hmdb51,HMDB51,abstract
+W2608988379,ucf-101,UCF101,abstract
+W2608988379,hmdb51,HMDB51,abstract
+W2745519816,imagenet,ImageNet,abstract
+W2745519816,ucf-101,UCF101,abstract
+W2745519816,hmdb51,HMDB51,abstract
+W2605111198,ucf-101,UCF101,abstract
+W2605111198,hmdb51,HMDB51,abstract
+W3010874390,kinetics-400,Kinetics-400,abstract
+W3010874390,imagenet,ImageNet,abstract
+W3010874390,ucf-101,UCF101,abstract
+W3010874390,hmdb51,HMDB51,abstract
+W2556024076,ucf-101,UCF101,abstract
+W2556024076,hmdb51,HMDB51,abstract
+W2235034809,ucf-101,UCF101,abstract
+W2235034809,hmdb51,HMDB51,abstract
+W2550462002,ucf-101,UCF101,abstract
+W2550462002,hmdb51,HMDB51,abstract
+W4362693689,ucf-101,UCF101,abstract
+W4362693689,hmdb51,HMDB51,abstract
+W2963119563,ucf-101,UCF101,abstract
+W2963119563,hmdb51,HMDB51,abstract
+W2951864506,ucf-101,UCF101,abstract
+W2951864506,hmdb51,HMDB51,abstract
+W3009779811,imagenet,ImageNet,abstract
+W3009779811,ucf-101,UCF101,abstract
+W3009779811,hmdb51,HMDB51,abstract
+W4362706140,ucf-101,UCF101,abstract
+W4362706140,hmdb51,HMDB51,abstract
+W2580899942,ucf-101,UCF101,abstract
+W2580899942,hmdb51,HMDB51,abstract
+W2063153269,hmdb51,HMDB51,abstract
+W2904378456,ucf-101,UCF101,abstract
+W2904378456,hmdb51,HMDB51,abstract
+W4390574409,ucf-101,UCF101,abstract
+W4390574409,hmdb51,HMDB51,abstract
+W4312416140,kinetics-400,Kinetics400,abstract
+W4312416140,ucf-101,UCF101,abstract
+W4312416140,hmdb51,HMDB51,abstract
+W4226065030,ucf-101,UCF101,abstract
+W4226065030,hmdb51,HMDB51,abstract
+W2769581371,ucf-101,UCF-101,abstract
+W2769581371,hmdb51,HMDB51,abstract
+W2593521598,ucf-101,UCF-101,abstract
+W2593521598,hmdb51,HMDB51,abstract
+W7164574183,ssv2,Something-Something V2,title
+W7164574183,imagenet,ImageNet,abstract
+W7164574183,ucf-101,UCF-101,abstract
+W7164585779,ssv2,Something-Something V2,title
+W7164585779,imagenet,ImageNet,abstract
+W7164585779,ucf-101,UCF-101,abstract
+W3147387781,ssv2,Something-Something V2,abstract
+W3147387781,kinetics-400,Kinetics 400,abstract
+W3008659735,ssv2,Something-Something V2,abstract
+W3008659735,mnist,MNIST,abstract
+W7163320289,ssv2,Something-Something V2,abstract
+W7164764804,ssv2,Something-Something V2,abstract
+W7164764804,imagenet,ImageNet,abstract
+W7164764804,ucf-101,UCF-101,abstract
+W4386071576,imagenet,ImageNet,abstract
+W4394861491,ssv2,Something-Something-V2,abstract
+W4394861491,kinetics-400,Kinetics-400,abstract
+W4394861491,imagenet,ImageNet1k,abstract
+W3097534466,ssv2,Something-Something-V2,abstract
+W4287112808,ssv2,Something-Something V2,abstract
+W4287112808,kinetics-400,Kinetics400,abstract
+W4283814875,ssv2,Something-Something V2,abstract
+W4283814875,kinetics-400,Kinetics400,abstract
+W7217258318,ssv2,Something-Something-V2,abstract
+W7217258318,imagenet,ImageNet-1K,abstract
+W3126009523,ssv2,Something-Something V2,abstract
+W3126009523,ucf-101,UCF101,abstract
+W3126009523,hmdb51,HMDB51,abstract
+W3097575257,ssv2,Something-Something V2,abstract
+W3097575257,kinetics-400,Kinetics-400,abstract
+W4317438003,ssv2,Something-Something V2,abstract
+W4317438003,kinetics-400,Kinetics-400,abstract
+W3037507281,ssv2,Something-Something V2,abstract
+W3107646798,ssv2,Something-Something-V2,abstract
+W7166499805,ssv2,Something-Something V2,abstract
+W7166499805,kinetics-400,Kinetics-400,abstract
+W7166499805,ucf-101,UCF-101,abstract
+W7166499805,hmdb51,HMDB-51,abstract
+W4403662664,ssv2,Something-Something V2,abstract
+W3111762767,ssv2,Something-Something-V2,abstract
+W7164754347,ssv2,Something-Something V2,abstract
+W7164754347,imagenet,ImageNet,abstract
+W7164754347,ucf-101,UCF-101,abstract
+W1927052826,activitynet,ActivityNet,title
+W2765277449,activitynet,ActivityNet,title
+W2964220823,activitynet,ActivityNet dataset,abstract
+W2486996822,activitynet,ActivityNet,title
+W2886078012,activitynet,ActivityNet dataset,abstract
+W4393519226,activitynet,ActivityNet,title
+W4393879645,activitynet,ActivityNet,title
+W2737666777,activitynet,ActivityNet dataset,abstract
+W2809725072,activitynet,ActivityNet,title
+W2808449858,activitynet,ActivityNet,title
+W2610152648,activitynet,ActivityNet,title
+W7172377703,activitynet,ActivityNet,title
+W7162936699,activitynet,ActivityNet,title
+W2470774766,activitynet,ActivityNet,title
+W2954458766,activitynet,ActivityNet,title
+W4404350795,activitynet,ActivityNet,title
+W4210416330,activitynet,ActivityNet,title
+W3036072644,activitynet,ActivityNet,title
+W3169771695,activitynet,ActivityNet,title
+W4283364921,activitynet,ActivityNet,title
+W7143316193,activitynet,ActivityNet,title
+W3207571777,activitynet,ActivityNet,title
+W2962959347,activitynet,ActivityNet,title
+W3035129487,activitynet,ActivityNet,title
+W3004459925,activitynet,ActivityNet,title
+W2524365899,youtube-8m,YouTube-8M,title
+W2524365899,imagenet,ImageNet,abstract
+W2731119675,youtube-8m,YouTube-8M,title
+W2736115865,youtube-8m,YouTube-8M,title
+W2625909586,youtube-8m,YouTube-8M,title
+W2697701227,youtube-8m,YouTube-8M,title
+W2655063496,youtube-8m,YouTube-8M,title
+W2735530842,youtube-8m,YouTube-8M,title
+W2690848685,youtube-8m,YouTube-8M,title
+W2728785276,youtube-8m,YouTube-8M,title
+W2625190133,youtube-8m,YouTube-8M,title
+W2995718093,youtube-8m,YouTube-8M,title
+W7163511116,youtube-8m,YouTube-8M,title
+W4386588832,youtube-8m,YouTube-8M,abstract
+W2789221157,activitynet,ActivityNet,abstract
+W2789221157,youtube-8m,YouTube-8M,abstract
+W2789221157,ucf-101,UCF101,abstract
+W2706729717,youtube-8m,YouTube-8M,abstract
+W7117876723,youtube-8m,YouTube-8M,abstract
+W4385556053,youtube-8m,YouTube-8M,abstract
+W2735720630,youtube-8m,YouTube-8M,abstract
+W2735720630,imagenet,ImageNet,abstract
+W2734032374,youtube-8m,YouTube-8M,abstract
+W3037433212,youtube-8m,YouTube-8M,abstract
+W2626764787,youtube-8m,YouTube-8M,abstract
+W2807968599,youtube-8m,YouTube-8M,abstract
+W2916145674,youtube-8m,YouTube-8M,abstract
+W2916145674,imagenet,ImageNet,abstract
+W2995479498,clevr,CLEVR dataset,abstract
+W2907143950,clevr,CLEVR,title
+W2950297087,clevr,CLEVR dataset,abstract
+W2561715562,clevr,CLEVR,title
+W3212053370,clevr,CLEVR,title
+W4290856251,clevr,CLEVR,title
+W2785578203,clevr,CLEVR,title
+W4226080939,clevr,CLEVR,abstract
+W2808580750,clevr,CLEVR,title
+W4226136952,clevr,CLEVR dataset,abstract
+W4226136952,vqa,VQA,abstract
+W4382492135,clevr,CLEVR,title
+W7131782159,clevr,CLEVR,title
+W7131782159,vqa,VQA,abstract
+W7203466877,vqa,VQA v2,abstract
+W7203466877,clevr,CLEVR,title
+W7166532587,clevr,CLEVR,title
+W7166532587,vqa,VQA,abstract
+W4386076240,clevr,CLEVR,title
+W4386076240,vqa,VQA,abstract
+W2787421903,clevr,CLEVR,title
+W2787421903,vqa,VQA,abstract
+W2920847544,clevr,CLEVR,title
+W2953212746,clevr,CLEVR,title
+W2889901011,clevr,CLEVR,title
+W4389519443,clevr,CLEVR,title
+W3087217353,clevr,CLEVR dataset,abstract
+W2987609140,clevr,CLEVR dataset,title
+W3095500781,clevr,CLEVR,title
+W2945576395,clevr,CLEVR,title
+W7111816867,visual-genome,Visual Genome,title
+W3166583735,visual-genome,Visual Genome,title
+W3102802929,visual-genome,Visual Genome,title
+W2277195237,visual-genome,Visual Genome,title
+W2973189209,visual-genome,Visual Genome,title
+W2963770624,visual-genome,Visual Genome,title
+W7210292624,visual-genome,Visual Genome,title
+W4413146236,visual-genome,Visual Genome,title
+W2136931265,visual-genome,Visual Genome,title
+W4292828885,visual-genome,Visual Genome,title
+W7163815751,visual-genome,Visual Genome,title
+W2985818450,visual-genome,Visual Genome,title
+W4320061375,visual-genome,Visual Genome,title
+W4229024503,visual-genome,Visual Genome,title
+W4214698892,visual-genome,Visual Genome,title
+W4393740718,visual-genome,Visual Genome,title
+W4320003093,visual-genome,Visual Genome,title
+W2120750059,visual-genome,Visual Genome,title
+W7162804301,visual-genome,Visual Genome,title
+W7133186495,visual-genome,Visual Genome,title
+W2526599626,visual-genome,Visual Genome,title
+W1933349210,vqa,VQA,title
+W2950761309,vqa,VQA,title
+W3120043490,vqa,VQA,title
+W2936135081,vqa,VQA 2.0,abstract
+W2803686446,visual-genome,Visual Genome,abstract
+W2803686446,vqa,VQA,title
+W3171774521,vqa,VQA v2,abstract
+W3001468315,vqa,VQA,title
+W3177934633,vqa,VQA v2,abstract
+W4364377616,vqa,VQA,title
+W4385574156,vqa,VQA,title
+W2608109911,vqa,VQA,title
+W2997591391,flickr30k,Flickr30k,abstract
+W2997591391,vqa,VQA 2.0,abstract
+W4206175303,vqa,VQA,title
+W2947312908,vqa,VQA,title
+W2884093133,vqa,VQA v2,abstract
+W2011788760,vqa,VQA,title
+W4304091788,visual-genome,Visual Genome,abstract
+W4304091788,vqa,VQA,title
+W2737766105,vqa,VQA,title
+W2560730294,vqa,Visual Question Answering dataset,abstract
+W4407213232,vqa,VQA,title
+W3004268082,vqa,VQA,title
+W7211883695,vqa,VQA,title
+W2891021031,clevr,CLEVR dataset,abstract
+W2891021031,vqa,VQA,title
+W4410427766,vqa,VQA,title
+W3152015664,vqa,VQA,title
+W2962953664,flickr30k,Flickr30k,title
+W1773149199,flickr30k,Flickr30k,title
+W2949844032,flickr30k,Flickr30k,title
+W7219193096,flickr30k,Flickr30k,title
+W7167787964,flickr30k,Flickr30k,title
+W7163174172,flickr30k,Flickr30k,title
+W7163355921,flickr30k,Flickr30k,title
+W7164327528,flickr30k,Flickr30k,title
+W7168176452,flickr30k,Flickr30k,title
+W2806729903,flickr30k,Flickr30k,title
+W7162764038,flickr30k,Flickr30k,title
+W4410339115,flickr30k,Flickr30k,title
+W7164687812,flickr30k,Flickr30k,title
+W7165479405,flickr30k,Flickr30k,title
+W7168040570,flickr30k,Flickr30k,title
+W7165355707,flickr30k,Flickr30k,title
+W7168155281,flickr30k,Flickr30k,title
+W7167280125,flickr30k,Flickr30k,title
+W7165447314,flickr30k,Flickr30k,title
+W7165469386,flickr30k,Flickr30k,title
+W2968124245,flickr30k,Flickr30k,abstract
+W2968124245,vqa,VQA,abstract
+W2220981600,flickr30k,Flickr30k,abstract
+W2220981600,coco,MS COCO,abstract
+W1514535095,flickr30k,Flickr30k,abstract
+W1514535095,coco,MS COCO,abstract
+W2575842049,flickr30k,Flickr30k,abstract
+W2302086703,coco,Microsoft COCO,abstract
+W2302086703,flickr30k,Flickr30k,abstract
+W4393694388,modelnet40,ModelNet40,title
+W4415330515,modelnet40,ModelNet40,title
+W3202611145,modelnet40,ModelNet40,abstract
+W2986382673,modelnet40,ModelNet40,abstract
+W4385883840,modelnet40,ModelNet40,abstract
+W4221160819,modelnet40,ModelNet40,abstract
+W3016535419,modelnet40,ModelNet40,abstract
+W3129873671,modelnet40,ModelNet40,abstract
+W2962818872,modelnet40,ModelNet40,abstract
+W4205189682,modelnet40,ModelNet40,abstract
+W3174146434,modelnet40,ModelNet40,abstract
+W2964480783,modelnet40,ModelNet40,abstract
+W2963530975,shapenet,ShapeNetCore,abstract
+W2963530975,modelnet40,ModelNet40,abstract
+W2963530975,imagenet,ImageNet,abstract
+W4402351826,modelnet40,ModelNet40,abstract
+W7162639839,modelnet40,ModelNet40,abstract
+W3034707001,modelnet40,ModelNet40,abstract
+W2995773452,modelnet40,ModelNet40,abstract
+W2995773452,shapenet,ShapeNet,abstract
+W4365129126,modelnet40,ModelNet40,abstract
+W4402952942,modelnet40,ModelNet40,abstract
+W4402952942,shapenet,ShapeNet,abstract
+W2855903050,modelnet40,ModelNet40,abstract
+W3011120345,modelnet40,ModelNet40,abstract
+W4395669058,modelnet40,ModelNet40,abstract
+W3158405343,modelnet40,ModelNet40,abstract
+W4387887223,modelnet40,ModelNet40,abstract
+W2942498895,modelnet40,ModelNet40,abstract
+W2942498895,shapenet,ShapeNet,abstract
+W4394671432,shapenet,ShapeNet,title
+W2190691619,shapenet,ShapeNet,title
+W1920022804,modelnet40,ModelNet,abstract
+W2567309586,shapenet,ShapeNet,title
+W1619816297,shapenet,ShapeNet,title
+W2787562104,shapenet,ShapeNet,title
+W4398922138,shapenet,ShapeNet,title
+W4224269183,shapenet,ShapeNet,title
+W3173748501,shapenet,ShapeNet,title
+W4221162002,shapenet,ShapeNet,title
+W2580018057,shapenet,ShapeNet,title
+W4221161315,shapenet,ShapeNet,title
+W4398305996,shapenet,ShapeNet,title
+W4304789653,shapenet,ShapeNet,title
+W2937458416,shapenet,ShapeNet,title
+W2765731028,shapenet,ShapeNet,title
+W3163282598,shapenet,ShapeNet,title
+W2920969423,shapenet,ShapeNet,title
+W2981892700,shapenet,ShapeNet,title
+W7115271428,shapenet,ShapeNet,title
+W4281680612,shapenet,ShapeNet,title
+W7160203996,shapenet,ShapeNet,title
+W2894293047,squad-2,SQuAD 2.0,title
+W2894293047,squad,SQuAD,title
+W2949288238,squad-2,SQuAD 2.0,title
+W2949288238,squad,SQuAD,title
+W2894490436,squad,Stanford Question Answering Dataset,abstract
+W2894490436,squad-2,SQuAD 2.0,title
+W3205966552,squad,Stanford Question Answering Dataset,abstract
+W3205966552,squad-2,SQuAD 2.0,title
+W3086994336,squad,SQuAD 1.1,abstract
+W3086994336,squad-2,SQuAD 2.0,title
+W2964413124,squad,Stanford Question Answering Dataset,abstract
+W2964413124,squad-2,SQuAD 2.0,title
+W4396736642,squad-2,SQuAD 2.0,title
+W4396736642,squad,SQuAD,title
+W3213694656,squad-2,SQuAD 2.0,title
+W3213694656,squad,SQuAD,title
+W4394007230,squad-2,SQuAD 2.0,title
+W4394007230,squad,SQuAD,title
+W7169562295,squad-2,SQuAD 2.0,title
+W7169562295,squad,SQuAD,title
+W7162625514,squad-2,SQuAD 2.0,title
+W7162625514,triviaqa,TriviaQA,abstract
+W7162625514,squad,SQuAD,title
+W7162625514,mmlu,MMLU,abstract
+W7165572977,squad-2,SQuAD 2.0,title
+W7165572977,squad,SQuAD,title
+W7162784800,squad-2,SQuAD 2.0,title
+W7162784800,squad,SQuAD,title
+W4414463914,squad,Stanford Question Answering Dataset,abstract
+W4414463914,squad-2,SQuAD 2.0,title
+W3171930167,squad-2,SQuAD 2.0,abstract
+W3171930167,squad,SQuAD,title
+W4386566620,squad,SQuAD 1.1,abstract
+W4386566620,squad-2,SQuAD 2.0,abstract
+W2897076808,squad-2,SQuAD 2.0,abstract
+W2897076808,squad,SQuAD,abstract
+W3118749790,squad-2,SQuAD 2.0,abstract
+W3118749790,squad,SQuAD,abstract
+W2963547127,squad-2,SQuAD 2.0,abstract
+W2963547127,squad,SQuAD,abstract
+W4378465085,squad-2,SQuAD 2.0,abstract
+W4378465085,squad,SQuAD,abstract
+W4413651721,squad,Stanford Question Answering Dataset,abstract
+W4413651721,squad-2,SQuAD 2.0,abstract
+W7155179216,squad-2,SQuAD 2.0,abstract
+W7155179216,squad,SQuAD,title
+W2998665041,squad-2,SQuAD 2.0,abstract
+W2998665041,squad,SQuAD,abstract
+W3015982254,natural-questions,Natural Questions,abstract
+W3015982254,squad-2,SQuAD 2.0,abstract
+W3015982254,squad,SQuAD,abstract
+W2985145135,squad-2,SQuAD 2.0,abstract
+W2985145135,squad,SQuAD,abstract
+W626563378,squad,SQuAD,title
+W2963748441,squad,Stanford Question Answering Dataset,abstract
+W2404593330,squad,SQuAD,title
+W2427527485,squad,Stanford Question Answering Dataset,abstract
+W2963323070,squad,Stanford Question Answering Dataset,abstract
+W2069233518,squad,SQuAD,title
+W2113615072,squad,SQuAD,title
+W4403137941,squad,SQuAD,title
+W2981382259,squad,SQuAD,title
+W210896795,squad,SQuAD,title
+W1839736434,squad,SQuAD,title
+W1576317032,squad,SQuAD,title
+W3005413998,squad,SQuAD,title
+W2553191190,squad,SQuAD,title
+W1966459260,squad,SQuAD,title
+W2744820806,squad,SQuAD,title
+W7134532425,squad,SQuAD,title
+W7139164604,squad,SQuAD,title
+W7205328921,squad,SQuAD,title
+W2071141824,squad,SQuAD,title
+W4382684426,squad,SQuAD,title
+W2911430044,natural-questions,Natural Questions,title
+W2912924812,natural-questions,Natural Questions,title
+W623524558,natural-questions,Natural Questions,title
+W2306876680,natural-questions,Natural Questions,title
+W2125628990,natural-questions,Natural Questions,title
+W3102925419,natural-questions,Natural Questions,title
+W4404700149,natural-questions,Natural Questions,title
+W2077472934,natural-questions,Natural Questions,title
+W4246242158,natural-questions,Natural Questions,title
+W3036663523,natural-questions,Natural Questions,title
+W4300440432,natural-questions,Natural Questions,title
+W2501791004,natural-questions,Natural Questions,title
+W7132699133,natural-questions,Natural Questions,title
+W1981417329,natural-questions,Natural Questions,title
+W7160301709,natural-questions,Natural Questions,title
+W3216444472,squad,Stanford Question Answering Dataset,abstract
+W3216444472,natural-questions,Natural Questions,title
+W4401042201,natural-questions,Natural Questions,title
+W4401042201,boolq,BoolQ,abstract
+W3034987253,natural-questions,Natural Questions,abstract
+W2973113793,natural-questions,Natural Questions,abstract
+W2973113793,squad,SQuAD,abstract
+W4416523893,natural-questions,Natural Questions,title
+W4378830688,natural-questions,Natural Questions,title
+W2994900646,squad,SQuAD,abstract
+W2889787757,hotpotqa,HotpotQA,title
+W2952862139,hotpotqa,HotpotQA,title
+W3017192286,hotpotqa,HotpotQA,title
+W7202023242,hotpotqa,HotpotQA,title
+W7163826206,hotpotqa,HotpotQA,title
+W7163812628,hotpotqa,HotpotQA,title
+W7162934216,hotpotqa,HotpotQA,title
+W7169754225,hotpotqa,HotpotQA,title
+W7162934378,hotpotqa,HotpotQA,title
+W7162934941,hotpotqa,HotpotQA,title
+W7162939573,hotpotqa,HotpotQA,title
+W7163823043,hotpotqa,HotpotQA,title
+W7164338809,hotpotqa,HotpotQA,title
+W7222438727,hotpotqa,HotpotQA,title
+W4415049870,hotpotqa,HotpotQA,title
+W7164660762,hotpotqa,HotpotQA,title
+W7164660762,squad,SQuAD,abstract
+W7203760237,hotpotqa,HotpotQA,title
+W7154984028,hotpotqa,HotpotQA,title
+W7164002385,hotpotqa,HotpotQA,title
+W4414054965,hotpotqa,HotpotQA,title
+W7164508566,hotpotqa,HotpotQA,title
+W7162643684,hotpotqa,HotpotQA,title
+W7162630023,hotpotqa,HotpotQA,title
+W7162790237,hotpotqa,HotpotQA,title
+W7162654541,hotpotqa,HotpotQA,title
+W2891012317,snli,Stanford Natural Language Inference,abstract
+W4394457199,snli,SNLI,title
+W3095908703,snli,SNLI,title
+W3191689059,snli,Stanford Natural Language Inference,abstract
+W4405469773,multinli,MultiNLI,abstract
+W4405469773,snli,SNLI,title
+W7117614642,snli,SNLI,title
+W3015608264,snli,SNLI,title
+W3103651020,snli,SNLI,title
+W7123673790,snli,SNLI,title
+W4390064904,snli,Stanford Natural Language Inference,title
+W4404489829,snli,Stanford Natural Language Inference,abstract
+W7171327919,snli,SNLI,title
+W7135082653,snli,SNLI,title
+W4404564424,snli,SNLI,title
+W2798665661,snli,SNLI,abstract
+W2963854351,glue,GLUE benchmark,abstract
+W2963854351,snli,SNLI,abstract
+W2964072386,snli,Stanford Natural Language Inference,abstract
+W2794325560,squad,SQuAD,abstract
+W2794325560,snli,SNLI,abstract
+W2950606982,snli,SNLI,abstract
+W2798416089,multinli,MultiNLI,abstract
+W2798416089,snli,SNLI,abstract
+W2741449676,snli,SNLI,abstract
+W4391272413,snli,SNLI,abstract
+W7163051314,multinli,MultiNLI,title
+W3015830489,multinli,MultiNLI,abstract
+W4385574293,multinli,MultiNLI,abstract
+W2889747665,multinli,MultiNLI,abstract
+W2889747665,snli,SNLI,abstract
+W3034555021,multinli,MultiNLI,abstract
+W2808308446,multinli,MultiNLI,abstract
+W2808308446,squad,SQuAD,abstract
+W2808308446,snli,SNLI,abstract
+W2964189376,snli,Stanford Natural Language Inference,abstract
+W2964189376,sst-2,Stanford Sentiment Treebank,abstract
+W2964189376,multinli,MultiNLI,abstract
+W2737504179,multinli,MultiNLI,abstract
+W4393819939,multinli,MultiNLI,abstract
+W2953130735,multinli,MultiNLI,abstract
+W2798459010,snli,Stanford Natural Language Inference,abstract
+W2798459010,multinli,MultiNLI,abstract
+W2953109491,multinli,MultiNLI,abstract
+W2808571346,snli,Stanford Natural Language Inference,abstract
+W2808571346,multinli,MultiNLI,abstract
+W2903064905,multinli,MultiNLI,abstract
+W2903064905,snli,SNLI,abstract
+W2953271402,multinli,MultiNLI,abstract
+W2953271402,boolq,BoolQ,title
+W3063384677,multinli,MultiNLI,abstract
+W3063384677,snli,SNLI,abstract
+W2905016804,multinli,MultiNLI,abstract
+W2905016804,snli,SNLI,abstract
+W2756386045,multinli,MultiNLI,abstract
+W7155073620,multinli,MultiNLI,abstract
+W7155073620,snli,SNLI,abstract
+W3113844822,multinli,MultiNLI,abstract
+W3113844822,snli,SNLI,abstract
+W3009586901,multinli,MultiNLI,abstract
+W4387804512,multinli,MultiNLI,abstract
+W4387804512,celeba,CelebA,abstract
+W3198655093,multinli,MultiNLI,abstract
+W3198655093,snli,SNLI,abstract
+W2805029710,multinli,MultiNLI,abstract
+W2805029710,snli,SNLI,abstract
+W7219666843,sst-2,SST-2,title
+W2109275023,sst-2,SST-2,title
+W2308091896,sst-2,SST-2,title
+W4393028220,sst-2,SST-2,title
+W4393718180,sst-2,Stanford Sentiment Treebank,title
+W7212248841,sst-2,SST-2,title
+W7212248841,glue,GLUE,abstract
+W7214594854,sst-2,SST-2,title
+W2090909775,sst-2,SST-2,title
+W7140104904,sst-2,SST-2,title
+W7140104904,glue,GLUE,abstract
+W4393465066,imdb,IMDb reviews,title
+W7155170834,imdb,IMDb reviews,title
+W2783819197,imdb,IMDb dataset,abstract
+W4390470652,imdb,IMDb dataset,abstract
+W7220384256,imdb,IMDb reviews,title
+W4411359618,imdb,IMDb movie reviews,abstract
+W7117720500,imdb,IMDb movie reviews,abstract
+W4416183363,imdb,IMDb reviews,title
+W4281909412,imdb,IMDb reviews,title
+W2753457294,imdb,IMDb reviews,title
+W4413819889,imdb,IMDb reviews,title
+W4409564733,imdb,IMDb reviews,title
+W4214671169,imdb,IMDb reviews,title
+W7139177762,imdb,IMDb reviews,title
+W4378841747,imdb,IMDb reviews,title
+W4394570545,imdb,IMDb movie reviews,abstract
+W4391623562,imdb,IMDb reviews,title
+W7163657725,imdb,IMDb reviews,title
+W4411484612,imdb,IMDb reviews,title
+W7199717142,imdb,IMDb reviews,title
+W4231748204,imdb,IMDb movie reviews,title
+W4410295308,imdb,IMDb movie reviews,abstract
+W4394139377,ag-news,AG News,title
+W2747273402,ag-news,AG News,title
+W4415418581,ag-news,AG News,title
+W7210003868,ag-news,AG News,title
+W7209720191,ag-news,AG News,title
+W7208853655,ag-news,AG News,title
+W7209000810,ag-news,AG News,title
+W7210199586,ag-news,AG News,title
+W7210224834,ag-news,AG News,title
+W7209394520,ag-news,AG News,title
+W7209226967,ag-news,AG News,title
+W7209181164,ag-news,AG News,title
+W7209211734,ag-news,AG News,title
+W7209774533,ag-news,AG News,title
+W7209919312,ag-news,AG News,title
+W7209143260,ag-news,AG News,title
+W7209062283,ag-news,AG News,title
+W7209149270,ag-news,AG News,title
+W7209120422,ag-news,AG News,title
+W7209946872,ag-news,AG News,title
+W7209577901,ag-news,AG News,title
+W7209985489,ag-news,AG News,title
+W7209488797,ag-news,AG News,title
+W7209311169,ag-news,AG News,title
+W7209417719,ag-news,AG News,title
+W2279409141,20newsgroups,20 Newsgroups,title
+W4393806412,20newsgroups,20 Newsgroups,title
+W7107874652,20newsgroups,20 Newsgroups,title
+W4409217830,20newsgroups,20 Newsgroups,title
+W3097514745,20newsgroups,20 Newsgroups,title
+W4385229846,20newsgroups,20 Newsgroups,title
+W2112364454,mnist,MNIST,abstract
+W1542064421,20newsgroups,20 Newsgroups,abstract
+W2912210943,20newsgroups,20 Newsgroups,abstract
+W2144900355,20newsgroups,20Newsgroups,abstract
+W2550576290,20newsgroups,20 Newsgroups,abstract
+W2103723258,20newsgroups,20 Newsgroups,abstract
+W4243138158,mnist,MNIST,abstract
+W1730404227,20newsgroups,20 Newsgroups,abstract
+W4393720118,20newsgroups,20 Newsgroups,abstract
+W2802103240,20newsgroups,20 Newsgroups,abstract
+W2108207327,20newsgroups,20 Newsgroups,abstract
+W4394521600,20newsgroups,20 Newsgroups,abstract
+W2144578941,conll-2003,CoNLL-2003,title
+W3104382126,conll-2003,CoNLL-2003,title
+W3004551438,conll-2003,CoNLL-2003,title
+W2952732525,conll-2003,CoNLL-2003,title
+W4385571365,conll-2003,CoNLL-2003,title
+W7210166274,conll-2003,CoNLL-2003,title
+W7165492362,conll-2003,CoNLL-2003,title
+W7169716567,conll-2003,CoNLL-2003,title
+W7167363681,conll-2003,CoNLL-2003,title
+W7167831452,conll-2003,CoNLL-2003,title
+W2179519966,conll-2003,CoNLL-2003,abstract
+W2962902328,penn-treebank,Penn Treebank,abstract
+W2962902328,conll-2003,CoNLL 2003,abstract
+W1966853641,conll-2003,CoNLL-2003,abstract
+W2964266863,conll-2003,CoNLL 2003,abstract
+W3172706369,conll-2003,CoNLL-2003,abstract
+W2295030615,penn-treebank,Penn Treebank,abstract
+W2295030615,conll-2003,CoNLL 2003,abstract
+W2251894552,conll-2003,CoNLL 2003,abstract
+W1570587036,conll-2003,CoNLL 2003,abstract
+W2798839675,conll-2003,CoNLL 2003,abstract
+W4252110927,conll-2003,CoNLL-2003,abstract
+W2949990951,conll-2003,CoNLL-2003,abstract
+W2740006839,conll-2003,CoNLL 2003,abstract
+W4393463761,wikitext-103,WikiText-103,title
+W7164526643,wikitext-103,WikiText-103,title
+W2792376130,penn-treebank,Penn Treebank,abstract
+W2792376130,wikitext-103,WikiText-103,abstract
+W2567070169,wikitext-103,WikiText-103,abstract
+W2988841832,wikitext-103,WikiText-103,abstract
+W2963970792,wikitext-103,WikiText-103,abstract
+W2894175714,wikitext-103,WikiText-103,abstract
+W2989646541,wikitext-103,WikiText-103,abstract
+W2905559537,penn-treebank,Penn Treebank,abstract
+W2905559537,wikitext-103,WikiText-103,abstract
+W2964110616,penn-treebank,Penn Treebank,abstract
+W2964110616,wikitext-103,WikiText-103,abstract
+W4385574174,wikitext-103,WikiText-103,abstract
+W7140218241,penn-treebank,Penn Treebank,abstract
+W7140218241,wikitext-103,WikiText-103,abstract
+W7162787993,wikitext-103,WikiText-103,abstract
+W2936652946,wikitext-103,WikiText-103,abstract
+W4385574040,wikitext-103,WikiText-103,abstract
+W7133184750,wikitext-103,WikiText-103,abstract
+W3183324671,wikitext-103,WikiText-103,abstract
+W7124940462,wikitext-103,WikiText-103,abstract
+W3213851426,wikitext-103,WikiText-103,abstract
+W4407123799,wikitext-103,WikiText-103,abstract
+W4256368835,wikitext-103,WikiText-103,abstract
+W3197762246,wikitext-103,WikiText-103,abstract
+W3198234976,wikitext-103,WikiText-103,abstract
+W4221145466,wikitext-103,WikiText-103,abstract
+W2986922898,wikitext-103,WikiText-103,abstract
+W2093647425,penn-treebank,Penn Treebank,title
+W2123311362,penn-treebank,Penn Treebank,title
+W2171332413,penn-treebank,Penn Treebank,title
+W1632114991,penn-treebank,Penn Treebank,title
+W2159636675,penn-treebank,Penn Treebank,title
+W2118785474,penn-treebank,Penn Treebank,title
+W2963021447,penn-treebank,Penn Treebank,title
+W1507020546,penn-treebank,Penn Treebank,title
+W2156354361,penn-treebank,Penn Treebank,title
+W900993354,penn-treebank,Penn Treebank,title
+W2000654059,penn-treebank,Penn Treebank,title
+W139168100,penn-treebank,Penn Treebank,title
+W95502979,penn-treebank,Penn Treebank,title
+W2406838261,penn-treebank,Penn Treebank,title
+W2078244995,penn-treebank,Penn Treebank,title
+W4206809790,penn-treebank,Penn Treebank,title
+W2164177402,penn-treebank,Penn Treebank,title
+W2741972581,penn-treebank,Penn Treebank,title
+W2949499230,penn-treebank,Penn Treebank,title
+W3148379247,penn-treebank,Penn Treebank,title
+W2251374677,penn-treebank,Penn Treebank,title
+W638132207,penn-treebank,Penn Treebank,title
+W2514232860,penn-treebank,Penn Treebank,title
+W3011924861,penn-treebank,Penn Treebank,title
+W4393524337,cnn-dailymail,CNN/DailyMail,title
+W4393524337,xsum,XSum,title
+W7128902288,cnn-dailymail,CNN/DailyMail,title
+W7220595469,cnn-dailymail,CNN/DailyMail,title
+W7165791233,cnn-dailymail,CNN/DailyMail,title
+W4393669265,cnn-dailymail,CNN/DailyMail,abstract
+W4393669265,xsum,XSum,title
+W2888556271,cnn-dailymail,CNN/DailyMail,abstract
+W2962785754,cnn-dailymail,CNN/DailyMail,abstract
+W2964028111,cnn-dailymail,CNN/DailyMail,abstract
+W2987844692,cnn-dailymail,CNN/DailyMail,abstract
+W4281806453,cnn-dailymail,CNN/DailyMail,abstract
+W2551396370,squad,Stanford Question Answering Dataset,abstract
+W2551396370,cnn-dailymail,CNN/DailyMail,abstract
+W3035050380,cnn-dailymail,CNN/DailyMail,abstract
+W4225934689,cnn-dailymail,CNN/DailyMail,abstract
+W4225934689,xsum,XSum,abstract
+W3196696529,cnn-dailymail,CNN/DailyMail,abstract
+W3196696529,xsum,XSum,abstract
+W4404211691,cnn-dailymail,CNN-DailyMail,abstract
+W2979500081,cnn-dailymail,CNN/DailyMail,abstract
+W2798990753,cnn-dailymail,CNN/DailyMail,abstract
+W2899426803,cnn-dailymail,CNN/DailyMail,abstract
+W4399175531,cnn-dailymail,CNN/DailyMail,abstract
+W4399175531,pubmed,PubMed,abstract
+W4399175531,xsum,XSum,abstract
+W2890861846,cnn-dailymail,CNN/DailyMail,abstract
+W4385571628,cnn-dailymail,CNN/DailyMail,abstract
+W4385571628,xsum,XSum,abstract
+W4413779719,cnn-dailymail,CNN/DailyMail,abstract
+W4413779719,xsum,XSum,abstract
+W4327930590,cnn-dailymail,CNN-DailyMail,abstract
+W4225567803,cnn-dailymail,CNN/DailyMail,abstract
+W4225567803,pubmed,PubMed,abstract
+W3042306599,cnn-dailymail,CNN/DailyMail,abstract
+W4393816730,xsum,XSum,title
+W7169809817,xsum,XSum,title
+W7118788540,xsum,XSum,title
+W7168368034,xsum,XSum,title
+W4416450648,xsum,XSum,abstract
+W4385573912,xsum,XSum,abstract
+W3034188538,cnn-dailymail,CNN/DailyMail,abstract
+W3034188538,xsum,XSum,abstract
+W7168308023,xsum,XSum,abstract
+W3094342783,cnn-dailymail,CNN/DailyMail,abstract
+W3094342783,xsum,XSum dataset,abstract
+W3154981967,cnn-dailymail,CNN/DailyMail,abstract
+W3154981967,xsum,XSum,abstract
+W2107118079,xsum,XSum,abstract
+W7129094590,cnn-dailymail,CNN/DailyMail,abstract
+W7129094590,xsum,XSum,abstract
+W4225325444,cnn-dailymail,CNN/DailyMail,abstract
+W4225325444,xsum,XSum dataset,abstract
+W7203473722,cnn-dailymail,CNN/DailyMail,abstract
+W7203473722,xsum,XSum,abstract
+W7159823207,cnn-dailymail,CNN/DailyMail,abstract
+W7159823207,xsum,XSum,abstract
+W3152781945,xsum,XSum,abstract
+W4401043073,xsum,XSum dataset,abstract
+W4287889159,xsum,XSum,abstract
+W4385572775,xsum,XSum dataset,abstract
+W2251610689,wmt14,WMT14,title
+W2251476375,wmt14,WMT14,title
+W2163726025,wmt14,WMT14,title
+W2251979322,wmt14,WMT 2014,abstract
+W2185797575,wmt14,WMT14,title
+W2150008921,wmt14,WMT14,title
+W7212150204,wmt14,WMT14,title
+W2169939314,wmt14,WMT14,title
+W2119760551,wmt14,WMT14,title
+W2336605602,wmt14,WMT14,title
+W4292768989,wmt14,WMT14,title
+W2251416277,wmt14,WMT14,title
+W2250342921,wmt14,WMT14,abstract
+W2133459682,wmt14,WMT14,abstract
+W2251485414,wmt14,WMT14,abstract
+W3174864715,wmt14,WMT14,abstract
+W776270814,wmt14,WMT14,abstract
+W2270190199,wmt14,WMT14,abstract
+W2996854111,wmt14,WMT14,abstract
+W3034330464,wmt14,WMT14,abstract
+W3200388885,wmt14,WMT14,abstract
+W3066373881,wmt14,WMT14,abstract
+W2962822108,wmt14,WMT14,abstract
+W2798957007,wmt14,WMT14,abstract
+W2963599677,wmt14,WMT14,abstract
+W2946659172,boolq,BoolQ,title
+W7170775100,boolq,BoolQ,title
+W7125674049,boolq,BoolQ,title
+W7171129091,boolq,BoolQ,title
+W7171678370,boolq,BoolQ,title
+W3092399494,boolq,BoolQ,abstract
+W3198002980,boolq,BoolQ,abstract
+W4226154459,boolq,BoolQ,abstract
+W3112974832,superglue,SuperGLUE,title
+W3112974832,boolq,BoolQ,abstract
+W3112974832,glue,GLUE,abstract
+W7169730123,boolq,BoolQ,abstract
+W7214971856,boolq,BoolQ,abstract
+W7214971856,gsm8k,GSM8K,abstract
+W7169888551,boolq,BoolQ,abstract
+W7169888551,mmlu,MMLU,abstract
+W7163221718,sst-2,SST-2,abstract
+W7163221718,boolq,BoolQ,abstract
+W3015339932,boolq,BoolQ,abstract
+W7204259133,boolq,BoolQ,abstract
+W7204259133,mmlu,MMLU,abstract
+W4414019041,boolq,BoolQ,abstract
+W3173771949,boolq,BoolQ,abstract
+W4283208789,imagenet,ImageNet,abstract
+W4283208789,boolq,BoolQ,abstract
+W4283208789,vqa,VQA,abstract
+W7133972388,boolq,BoolQ,abstract
+W7133972388,gsm8k,GSM8K,abstract
+W3101023622,boolq,BoolQ,abstract
+W4386436140,boolq,BoolQ,abstract
+W3170064729,boolq,BoolQ,abstract
+W7222651602,boolq,BoolQ,abstract
+W4411303985,natural-questions,Natural Questions,title
+W4411303985,boolq,BoolQ,abstract
+W7134178888,gsm8k,GSM8K,title
+W4390437991,gsm8k,GSM8K,title
+W4389821462,gsm8k,GSM8K,abstract
+W7113182792,gsm8k,GSM8K,title
+W7162957624,gsm8k,GSM8K,title
+W7164021072,gsm8k,GSM8K,title
+W7162857709,gsm8k,GSM8K,title
+W7162861972,gsm8k,GSM8K,title
+W7163056729,gsm8k,GSM8K,title
+W7214770018,gsm8k,GSM8K,title
+W7162803074,gsm8k,GSM8K,title
+W7162757099,humaneval,HumanEval,title
+W7162757099,gsm8k,GSM8K,title
+W7162757099,mmlu,MMLU,title
+W7162863089,gsm8k,GSM8K,title
+W7163174188,gsm8k,GSM8K,title
+W7162794296,humaneval,HumanEval,title
+W7162794296,gsm8k,GSM8K,title
+W7162794296,mmlu,MMLU,title
+W7162804970,humaneval,HumanEval,title
+W7162804970,gsm8k,GSM8K,title
+W7162804970,mmlu,MMLU,title
+W7155403883,gsm8k,GSM8K,title
+W7163218862,gsm8k,GSM8K,title
+W7171101851,gsm8k,GSM8K,title
+W7163803779,gsm8k,GSM8K,title
+W7171114909,gsm8k,GSM8K,title
+W7220723203,gsm8k,GSM8K,title
+W7162808746,humaneval,HumanEval,title
+W7162808746,gsm8k,GSM8K,title
+W7162808746,mmlu,MMLU,title
+W7162783355,humaneval,HumanEval,title
+W7162783355,gsm8k,GSM8K,title
+W7162783355,mmlu,MMLU,title
+W7160549805,mmlu,Massive Multitask Language Understanding,abstract
+W4399455140,mmlu,Massive Multitask Language Understanding,abstract
+W7127272599,mmlu,Massive Multitask Language Understanding,abstract
+W4411119490,mmlu,MMLU,title
+W4394371077,mmlu,MMLU,title
+W4415796274,mmlu,Massive Multitask Language Understanding,abstract
+W4400104277,mmlu,Massive Multitask Language Understanding,abstract
+W4400222341,mmlu,MMLU,title
+W4396665116,mmlu,Massive Multitask Language Understanding,abstract
+W4416183169,mmlu,Massive Multitask Language Understanding,abstract
+W4405089755,mmlu,MMLU,title
+W4399009725,mmlu,MMLU,title
+W7169870888,mmlu,MMLU,title
+W7165001900,mmlu,MMLU,title
+W7163914632,mmlu,MMLU,title
+W4409049132,mmlu,MMLU,title
+W4399794329,humaneval,HumanEval dataset,abstract
+W4399794329,mmlu,MMLU,title
+W4404781422,mmlu,MMLU,title
+W4412945366,mmlu,Massive Multitask Language Understanding,abstract
+W7168357495,mmlu,MMLU,title
+W7163992584,mmlu,MMLU,title
+W4412944984,mmlu,MMLU,title
+W7212167520,mmlu,MMLU,title
+W4403709451,mmlu,MMLU,title
+W4385562549,humaneval,HumanEval,title
+W4392181664,humaneval,HumanEval,title
+W7163568154,humaneval,HumanEval,title
+W7163568154,mbpp,MBPP,title
+W7213427879,humaneval,HumanEval,title
+W7164898266,humaneval,HumanEval,title
+W7164898266,mbpp,MBPP,abstract
+W7163706495,humaneval,HumanEval,title
+W7163743723,humaneval,HumanEval,title
+W7163743723,mbpp,MBPP,title
+W4402670580,humaneval,HumanEval,title
+W4402670580,mbpp,MBPP,abstract
+W7162849065,humaneval,HumanEval,title
+W4410536486,humaneval,HumanEval,title
+W7163648688,humaneval,HumanEval,title
+W7163045735,humaneval,HumanEval,title
+W7163045735,mbpp,MBPP,title
+W7162951259,humaneval,HumanEval,title
+W4396815387,humaneval,HumanEval,title
+W4396815387,mbpp,MBPP,abstract
+W4406261974,humaneval,HumanEval dataset,abstract
+W7163668644,humaneval,HumanEval,title
+W7163400882,humaneval,HumanEval,title
+W7162882022,humaneval,HumanEval,title
+W7163260866,humaneval,HumanEval,title
+W7163820255,humaneval,HumanEval,title
+W7162955174,humaneval,HumanEval,title
+W7162863027,humaneval,HumanEval,title
+W7163681563,humaneval,HumanEval,title
+W7163198987,humaneval,HumanEval,title
+W3000664030,mbpp,MBPP,title
+W7141042346,mbpp,MBPP,title
+W7163063225,mbpp,MBPP,title
+W7163865471,mbpp,MBPP,title
+W2366576847,mbpp,MBPP,title
+W7171079860,mbpp,MBPP,title
+W7163925309,mbpp,MBPP,title
+W7163554305,humaneval,HumanEval,title
+W7163554305,mbpp,MBPP,title
+W7163585528,mbpp,MBPP,title
+W7163590202,mbpp,MBPP,title
+W7204036162,mbpp,MBPP,title
+W7163008129,mbpp,MBPP,title
+W7162953929,humaneval,HumanEval,title
+W7162953929,mbpp,MBPP,title
+W7134184734,mbpp,MBPP,title
+W7163872045,mbpp,MBPP,title
+W7162857011,mbpp,MBPP,title
+W7162860212,mbpp,MBPP,title
+W7163830606,mbpp,MBPP,title
+W2973060173,mbpp,MBPP,title
+W7170155756,humaneval,HumanEval,title
+W7170155756,mbpp,MBPP,title
+W2378988994,mbpp,MBPP,title
+W7162879049,mbpp,MBPP,title
+W2972359262,librispeech,LibriSpeech,title
+W1494198834,librispeech,LibriSpeech,title
+W2944255943,librispeech,LibriSpeech,title
+W7108444414,librispeech,LibriSpeech,title
+W4393564344,librispeech,LibriSpeech,title
+W3160267045,librispeech,LibriSpeech,title
+W4393779475,librispeech,LibriSpeech ASR,abstract
+W2940703732,librispeech,LibriSpeech,title
+W4394052713,librispeech,LibriSpeech,title
+W2962775040,librispeech,LibriSpeech,title
+W3015337526,librispeech,LibriSpeech,title
+W3015337526,timit,TIMIT,abstract
+W3142545740,librispeech,LibriSpeech,title
+W4382935115,librispeech,LibriSpeech,title
+W4385822571,librispeech,LibriSpeech,title
+W3186528847,librispeech,LibriSpeech,title
+W7125282811,librispeech,LibriSpeech,title
+W7125352102,librispeech,LibriSpeech,title
+W7155069046,librispeech,LibriSpeech,title
+W4391021797,librispeech,LibriSpeech,title
+W4327773557,librispeech,LibriSpeech,title
+W2914190986,librispeech,LibriSpeech,title
+W7170223524,librispeech,LibriSpeech,title
+W4405440596,librispeech,LibriSpeech,title
+W7218247347,librispeech,LibriSpeech,title
+W7167438332,librispeech,LibriSpeech,title
+W2995929068,common-voice,Common Voice,title
+W2904935390,common-voice,Common Voice,title
+W3093648521,common-voice,Common Voice,title
+W2098231016,common-voice,Common Voice,title
+W1783956044,common-voice,Common Voice,title
+W2043783970,common-voice,Common Voice,title
+W3035804292,common-voice,Common Voice,title
+W2193145857,common-voice,Common Voice,title
+W2165202708,common-voice,Common Voice,title
+W4385823180,common-voice,Common Voice,title
+W7127557149,common-voice,Common Voice,title
+W3087246835,common-voice,Common Voice,title
+W4387619732,common-voice,Common Voice,title
+W2495133148,common-voice,Common Voice,title
+W4393625363,common-voice,Common Voice,title
+W2032313897,common-voice,Common Voice,title
+W4226157313,common-voice,Common Voice,title
+W4283755617,common-voice,Mozilla Common Voice,abstract
+W4306246947,common-voice,Common Voice,title
+W7131779890,common-voice,Mozilla Common Voice,abstract
+W2495213614,common-voice,Common Voice,title
+W167398655,common-voice,Common Voice,title
+W4297833789,common-voice,Common Voice,abstract
+W3127686677,timit,TIMIT,title
+W2029199293,timit,TIMIT,title
+W2095439836,timit,TIMIT,title
+W1608367484,timit,TIMIT,title
+W3164669818,timit,TIMIT,title
+W3181911411,timit,TIMIT,title
+W1506438021,timit,TIMIT,title
+W2115439799,timit,TIMIT,title
+W1990470142,timit,TIMIT,title
+W2739455090,timit,TIMIT,title
+W1846543939,timit,TIMIT,title
+W2001012680,timit,TIMIT,title
+W2808291730,timit,TIMIT,title
+W3197618026,timit,TIMIT,title
+W3143915939,timit,TIMIT,title
+W3012168345,timit,TIMIT,title
+W1986096674,timit,TIMIT,title
+W2118595744,timit,TIMIT,title
+W1528719690,timit,TIMIT,title
+W2154037907,timit,TIMIT,title
+W7160285065,timit,TIMIT,title
+W7221016308,timit,TIMIT,title
+W7171674647,timit,TIMIT,title
+W1573101664,timit,TIMIT,title
+W7128421072,librispeech,LibriSpeech,abstract
+W7128421072,timit,TIMIT,title
+W2726515241,voxceleb,VoxCeleb,title
+W2981087920,voxceleb,VoxCeleb,title
+W2981461916,voxceleb,VoxCeleb,title
+W3202571367,voxceleb,VoxCeleb,title
+W3090254849,voxceleb,VoxCeleb,title
+W3025075133,voxceleb,VoxCeleb,title
+W2991951409,voxceleb,VoxCeleb,title
+W3111481301,voxceleb,VoxCeleb,title
+W4221167533,voxceleb,VoxCeleb,title
+W3198698812,voxceleb,VoxCeleb2,abstract
+W4406461906,voxceleb,VoxCeleb,title
+W4406461906,timit,TIMIT,abstract
+W4377864567,voxceleb,VoxCeleb,title
+W4402704779,voxceleb,VoxCeleb,title
+W4321524405,voxceleb,VoxCeleb,title
+W4322627523,voxceleb,VoxCeleb1,abstract
+W3162347631,voxceleb,VoxCeleb,title
+W3196906655,voxceleb,VoxCeleb,title
+W4403882881,voxceleb,VoxCeleb,title
+W3094325190,voxceleb,VoxCeleb,title
+W3095201711,voxceleb,VoxCeleb,title
+W4296608375,voxceleb,VoxCeleb,title
+W4383175758,voxceleb,VoxCeleb,title
+W4286981691,voxceleb,VoxCeleb,title
+W4297899504,voxceleb,VoxCeleb,title
+W4297161768,voxceleb,VoxCeleb,title
+W2963242190,aishell-1,AISHELL-1,title
+W2889048668,aishell-1,AISHELL-1,abstract
+W3111562797,aishell-1,AISHELL-1,abstract
+W4221139374,aishell-1,AISHELL,title
+W3096123040,aishell-1,AISHELL-1,abstract
+W4408356255,aishell-1,AISHELL-1,abstract
+W4283768831,aishell-1,AISHELL-1,abstract
+W3170405627,aishell-1,AISHELL-1,abstract
+W4300074368,aishell-1,AISHELL,title
+W4372260363,aishell-1,AISHELL-1,abstract
+W3095783102,aishell-1,AISHELL-1,abstract
+W4361003741,aishell-1,AISHELL-1,abstract
+W4412083278,aishell-1,AISHELL-1,abstract
+W3164692279,aishell-1,AISHELL-1,abstract
+W4210423654,aishell-1,AISHELL-1,abstract
+W3144345593,aishell-1,AISHELL-1,abstract
+W3097580812,aishell-1,AISHELL-1,abstract
+W4312602417,aishell-1,AISHELL-1,abstract
+W2813631418,aishell-1,AISHELL-1,abstract
+W4319862680,aishell-1,AISHELL-1,abstract
+W3140941716,aishell-1,AISHELL-1,abstract
+W3028225967,aishell-1,AISHELL-1,abstract
+W3015595164,aishell-1,AISHELL-1,abstract
+W3097625183,aishell-1,AISHELL-1,abstract
+W3149201639,aishell-1,AISHELL,title
+W2219888463,movielens,MovieLens,title
+W2029119963,movielens,MovieLens,title
+W4237982839,movielens,MovieLens,title
+W4394143564,movielens,MovieLens,title
+W2006642624,movielens,MovieLens,title
+W2690546603,movielens,MovieLens 20M,title
+W4394082621,movielens,MovieLens,title
+W4394137587,movielens,MovieLens,title
+W2207252950,movielens,MovieLens,title
+W2022130861,movielens,MovieLens,title
+W4394045700,movielens,MovieLens,title
+W4394366201,movielens,MovieLens 1M,title
+W4398464168,movielens,MovieLens 1M,title
+W4398632482,movielens,MovieLens,title
+W3098310411,movielens,MovieLens,title
+W2170109170,movielens,MovieLens,title
+W4387514433,movielens,MovieLens,title
+W2328438047,movielens,MovieLens,title
+W7155050224,movielens,MovieLens,title
+W7142832027,movielens,MovieLens,title
+W4294437546,movielens,MovieLens,title
+W7143478807,movielens,MovieLens,title
+W7143382971,movielens,MovieLens,title
+W4398567308,movielens,MovieLens,title
+W4416702570,movielens,MovieLens,title
+W3092547334,amazon-reviews,Amazon Reviews,title
+W3186126799,amazon-reviews,Amazon Reviews dataset,abstract
+W4394488932,amazon-reviews,Amazon Reviews dataset,abstract
+W4394487174,amazon-reviews,Amazon Reviews dataset,abstract
+W2805768851,amazon-reviews,Amazon Reviews,title
+W2944597976,amazon-reviews,Amazon Reviews,abstract
+W7221388184,amazon-reviews,Amazon Reviews,title
+W1795484492,amazon-reviews,Amazon Reviews,title
+W4392373555,amazon-reviews,Amazon Reviews,title
+W7220185244,amazon-reviews,Amazon Reviews,title
+W2888385739,amazon-reviews,Amazon product reviews,abstract
+W2063656095,amazon-reviews,Amazon Reviews,title
+W3128391668,amazon-reviews,Amazon Reviews,title
+W4412537180,amazon-reviews,Amazon Reviews,title
+W2899537771,amazon-reviews,Amazon Reviews,title
+W2954868868,amazon-reviews,Amazon Reviews,title
+W2890737193,amazon-reviews,Amazon Reviews,title
+W4206764847,amazon-reviews,Amazon Reviews,title
+W4251599683,amazon-reviews,Amazon Reviews,title
+W7161163722,amazon-reviews,Amazon Reviews,title
+W2810287445,amazon-reviews,Amazon Reviews,title
+W4394347603,yelp,Yelp Open Dataset,title
+W7137156378,yelp,Yelp Open Dataset,title
+W7130858818,yelp,Yelp Open Dataset,abstract
+W4226155404,yelp,Yelp Open Dataset,abstract
+W4416017195,yelp,Yelp Open Dataset,abstract
+W4393590946,yelp,Yelp Open Dataset,abstract
+W4221115923,yelp,Yelp Open Dataset,abstract
+W2261703149,yelp,Yelp dataset,abstract
+W3166254624,yelp,Yelp Open Dataset,abstract
+W3112732611,yelp,Yelp Open Dataset,abstract
+W4410562835,yelp,Yelp Open Dataset,abstract
+W7111910311,yelp,Yelp Open Dataset,abstract
+W3097446167,yelp,Yelp dataset,abstract
+W7167286669,yelp,Yelp dataset,title
+W2241651216,yelp,Yelp dataset,title
+W2247641529,squad,SQuAD,abstract
+W3196048738,yelp,Yelp dataset,abstract
+W4390099485,yelp,Yelp dataset,title
+W7215159935,yelp,Yelp reviews,title
+W2576277975,cora,Cora,title
+W2613607093,cora,Cora,title
+W2141861439,cora,Cora dataset,title
+W1971852550,cora,Cora,title
+W7204815942,cora,Cora dataset,title
+W2081304753,cora,Cora,title
+W2094122219,cora,Cora,title
+W1986538440,cora,Cora,title
+W4233387024,cora,Cora,abstract
+W7165737431,cora,Cora dataset,abstract
+W2068282635,cora,Cora,title
+W2114431583,cora,Cora,title
+W7212290054,cora,Cora,title
+W7106787258,cora,Cora,title
+W7128807070,cora,Cora dataset,abstract
+W2043841973,cora,Cora,title
+W7128775914,cora,Cora dataset,abstract
+W1836520876,cora,Cora,title
+W2107407747,cora,Cora,title
+W2016467021,cora,Cora,title
+W863411863,cora,Cora,title
+W2162011510,cora,Cora,title
+W7115242330,cora,Cora,title
+W2168190036,citeseer,CiteSeer,title
+W2097166075,citeseer,CiteSeer,title
+W2159406247,citeseer,CiteSeer,title
+W2742875101,citeseer,CiteSeer,title
+W7204708365,citeseer,CiteSeer,title
+W2155097310,citeseer,CiteSeer,title
+W2010879256,citeseer,CiteSeer,title
+W4409603749,citeseer,CiteSeer,title
+W4409710037,citeseer,CiteSeer,title
+W7128778099,citeseer,Citeseer dataset,abstract
+W4394233528,citeseer,CiteSeer,title
+W2485285346,citeseer,CiteSeer,title
+W4387391431,citeseer,CiteSeer,title
+W4409688154,citeseer,CiteSeer,title
+W2294064099,citeseer,CiteSeer,title
+W44638526,citeseer,CiteSeer,title
+W2048402950,citeseer,CiteSeer,title
+W2150670604,citeseer,CiteSeer,title
+W1986981693,citeseer,CiteSeer,title
+W4409826857,citeseer,CiteSeer,title
+W7204729825,citeseer,CiteSeer,title
+W1932871611,citeseer,CiteSeer,title
+W1990158218,citeseer,CiteSeer,title
+W2206864137,citeseer,CiteSeer,title
+W2040966276,citeseer,CiteSeer,title
+W3094217983,pubmed,PubMed,title
+W2132784310,pubmed,PubMed,title
+W2766417776,pubmed,PubMed,title
+W2063448147,pubmed,PubMed,title
+W2889499003,pubmed,PubMed,title
+W2118096205,pubmed,PubMed,title
+W2120736575,pubmed,PubMed,title
+W3203861781,pubmed,PubMed,title
+W1623646485,pubmed,PubMed,title
+W3015636882,pubmed,PubMed,title
+W2889414415,pubmed,PubMed,title
+W2114968396,pubmed,PubMed,title
+W2120109270,pubmed,PubMed,title
+W1807567900,pubmed,PubMed,title
+W1595429343,pubmed,PubMed,title
+W2162965868,pubmed,PubMed,title
+W3015697468,pubmed,PubMed,title
+W2103320915,pubmed,PubMed,title
+W2088327421,pubmed,PubMed,title
+W2957095284,pubmed,PubMed,title
+W3038003025,pubmed,PubMed,title
+W3037550880,pubmed,PubMed,title
+W3160817087,pubmed,PubMed,title
+W7161467531,pubmed,PubMed,title
+W2409109283,pubmed,PubMed,title
+W7143469810,ogbn-arxiv,ogbn-arxiv,title
+W7164851427,ogbn-arxiv,ogbn-arxiv,title
+W7164863239,ogbn-arxiv,ogbn-arxiv,title
+W7163039972,ogbn-arxiv,ogbn-arxiv,title
+W4414688063,ogbn-arxiv,ogbn-arxiv,abstract
+W4379087246,ogbn-arxiv,ogbn-arxiv,abstract
+W4379087246,pubmed,PubMed,abstract
+W4379087246,cora,Cora,abstract
+W4221155787,ogbn-arxiv,ogbn-arxiv,abstract
+W4389116337,ogbn-arxiv,ogbn-arxiv,abstract
+W4389116337,citeseer,CiteSeer,abstract
+W4389116337,cora,Cora,abstract
+W7203667584,ogbn-arxiv,ogbn-arxiv,abstract
+W7203667584,cora,Cora,abstract
+W7162399747,ogbn-arxiv,ogbn-arxiv,abstract
+W4320463723,ogbn-arxiv,ogbn-arxiv,abstract
+W4391558151,ogbn-arxiv,ogbn-arxiv,abstract
+W4294786649,ogbn-arxiv,ogbn-arxiv,abstract
+W7163057080,ogbn-arxiv,ogbn-arxiv,abstract
+W7163057080,imagenet,ImageNet,abstract
+W7164416899,ogbn-arxiv,ogbn-arxiv,abstract
+W4417332592,ogbn-arxiv,ogbn-arxiv,abstract
+W7129022114,ogbn-arxiv,ogbn-arxiv,abstract
+W7129022114,pubmed,PubMed,abstract
+W7129022114,cora,Cora,abstract
+W4387947574,ogbn-arxiv,ogbn-arxiv,abstract
+W4387947574,pubmed,PubMed,abstract
+W7167640332,ogbn-arxiv,ogbn-arxiv,abstract
+W7167640332,pubmed,PubMed,abstract
+W7167640332,cora,Cora,abstract
+W4407011071,ogbn-arxiv,ogbn-arxiv,abstract
+W7131783721,pubmed,Pubmed diabetes,abstract
+W7131783721,ogbn-arxiv,ogbn-arxiv,abstract
+W4404570455,ogbn-arxiv,ogbn-arxiv,abstract
+W7115595924,ogbn-arxiv,ogbn-arxiv,abstract
+W4401390801,ogbn-arxiv,ogbn-arxiv,abstract
+W4318187119,ogbn-arxiv,ogbn-arxiv,abstract
+W4318187119,citeseer,CiteSeer,abstract
+W4318187119,pubmed,PubMed,abstract
+W4318187119,cora,Cora,abstract
+W2396881363,mimic-iii,MIMIC-III,title
+W3006837654,mimic-iii,MIMIC-III,title
+W2796255656,mimic-iii,MIMIC-III,title
+W7131854770,mimic-iii,MIMIC-III,title
+W4285795576,mimic-iii,MIMIC-III,title
+W3102419640,mimic-iii,MIMIC-III,title
+W7134902953,mimic-iii,MIMIC-III,title
+W3023915753,mimic-iii,MIMIC-III,title
+W4366835582,mimic-iii,MIMIC-III,title
+W3111698685,mimic-iii,MIMIC-III,title
+W3206918783,mimic-iii,MIMIC-III,title
+W3148531960,mimic-iii,MIMIC-III,title
+W3194908699,mimic-iii,MIMIC-III,title
+W4285796822,mimic-iii,MIMIC-III,title
+W2794496820,mimic-iii,MIMIC III,title
+W3183580055,mimic-iii,MIMIC-III,title
+W3024277754,mimic-iii,MIMIC III,title
+W3035540238,mimic-iii,MIMIC-III,title
+W4207057807,mimic-iii,MIMIC-III,title
+W4391093163,mimic-iii,MIMIC-III,title
+W4411044823,mimic-iii,MIMIC-III,abstract
+W4399794309,mimic-iii,MIMIC III,title
+W3126598488,mimic-iii,MIMIC-III,abstract
+W2990440586,mimic-iii,MIMIC-III,abstract
+W7147323827,mimic-iii,MIMIC-III,title
+W3037343796,chexpert,CheXpert,title
+W2904183610,chexpert,CheXpert,title
+W2963466845,chexpert,CheXpert,title
+W3160155166,chexpert,CheXpert,title
+W7155407778,chexpert,CheXpert,title
+W4391378179,chexpert,CheXpert,title
+W4393066245,chexpert,CheXpert,title
+W4402916503,chexpert,CheXpert,title
+W3212250745,chexpert,CheXpert,title
+W4413147664,chexpert,CheXpert,title
+W7220923762,chexpert,CheXpert,title
+W4405029505,chexpert,CheXpert,title
+W7222725672,chexpert,CheXpert,title
+W7222725672,pubmed,PubMed,abstract
+W4399251815,chexpert,CheXpert,title
+W7168285980,mimic-iii,MIMIC-III,title
+W7168285980,chexpert,CheXpert,title
+W7215015320,chestxray14,ChestX-ray14,abstract
+W7215015320,chexpert,CheXpert,title
+W3188252230,chexpert,CheXpert,abstract
+W4387472906,chexpert,CheXpert,abstract
+W4406971480,chexpert,CheXpert,abstract
+W2946236639,chestxray14,ChestX-ray14,abstract
+W2946236639,chexpert,CheXpert,abstract
+W4416371184,chestxray14,ChestX-ray14,abstract
+W4416371184,chexpert,CheXpert,abstract
+W4386925230,chexpert,CheXpert,abstract
+W2971686358,chestxray14,ChestX-ray14,abstract
+W2971686358,chexpert,CheXpert,abstract
+W3143195296,chexpert,CheXpert,abstract
+W3036632634,chexpert,CheXpert,abstract
+W7117791013,chestxray14,ChestX-ray14,title
+W4415590792,chestxray14,ChestX-ray14,title
+W4415590792,imagenet,ImageNet-1K,abstract
+W4404696667,chestxray14,ChestX-ray14,title
+W7166808137,chestxray14,ChestX-ray14,title
+W7166875875,chestxray14,ChestX-ray14,title
+W7166878789,chestxray14,ChestX-ray14,title
+W7172314534,chestxray14,ChestX-ray14,title
+W7166848962,chestxray14,ChestX-ray14,title
+W7166876967,chestxray14,ChestX-ray14,title
+W7166837463,chestxray14,ChestX-ray14,title
+W4328007640,chestxray14,ChestX-ray14,title
+W4413895415,chestxray14,ChestX-ray14,title
+W7156616652,chestxray14,ChestX-ray14,title
+W7139912954,chestxray14,ChestX-ray14,title
+W7213654179,chestxray14,ChestX-ray14,title
+W7204552310,chestxray14,ChestX-ray14,title
+W7204552310,imagenet,ImageNet,abstract
+W4417162505,chestxray14,ChestX-ray14,title
+W7222884741,chestxray14,ChestX-ray14,title
+W7222884741,chexpert,CheXpert,abstract
+W7202176601,chestxray14,ChestX-ray14,title
+W2770241596,chestxray14,ChestX-ray14,abstract
+W2991676991,chestxray14,ChestX-ray14,abstract
+W2884420041,chestxray14,ChestX-ray14,abstract
+W2793854008,chestxray14,ChestX-ray14,abstract
+W4415729897,chestxray14,ChestX-ray14,abstract
+W7204705310,camelyon16,Camelyon16,title
+W7204705310,imagenet,ImageNet,abstract
+W4362694454,camelyon16,Camelyon16,title
+W4362693668,camelyon16,Camelyon16,title
+W3199651403,camelyon16,Camelyon16,title
+W7221547511,camelyon16,Camelyon16,title
+W3133239026,camelyon16,Camelyon16,title
+W2593345132,camelyon16,Camelyon16,abstract
+W3112995972,camelyon16,Camelyon16,abstract
+W3112995972,imagenet,ImageNet,abstract
+W2921577390,camelyon16,Camelyon16,abstract
+W2765525401,camelyon16,Camelyon16,abstract
+W2986297814,camelyon16,Camelyon16,abstract
+W2894917609,camelyon16,Camelyon16,abstract
+W7165157296,camelyon16,Camelyon16,abstract
+W2805886241,camelyon16,Camelyon16,abstract
+W7165198907,camelyon16,Camelyon16,abstract
+W2765994799,camelyon16,Camelyon16,abstract
+W3113084721,camelyon16,Camelyon16,abstract
+W3113084721,imagenet,ImageNet,abstract
+W4412722182,camelyon16,Camelyon16,abstract
+W3173869026,camelyon16,Camelyon16,abstract
+W2946099713,camelyon16,Camelyon16,abstract
+W2946099713,imagenet,ImageNet,abstract
+W4385768167,camelyon16,Camelyon16,abstract
+W4393623403,camelyon16,Camelyon16,abstract
+W2966667175,camelyon16,Camelyon16,abstract
+W2966667175,cifar-10,CIFAR-10,abstract
+W4392465486,camelyon16,Camelyon16,abstract
+W4205854246,camelyon16,Camelyon16,abstract
+arxiv:2405.07526v1,ms-marco,MS MARCO,title
+arxiv:2204.12852v1,ms-marco,MS MARCO,title
+arxiv:2309.07574v1,ms-marco,MS MARCO,title
+arxiv:2304.12904v1,ms-marco,MS MARCO,title
+arxiv:1611.09268v3,ms-marco,MS MARCO,title
+arxiv:2506.18535v1,ms-marco,MS MARCO,title
+arxiv:2009.09392v1,ms-marco,MS MARCO,title
+arxiv:2012.08020v3,ms-marco,MS MARCO,title
+arxiv:2105.04021v1,ms-marco,MS MARCO,title
+arxiv:2108.13897v5,ms-marco,MS MARCO,title
+arxiv:2205.02870v2,ms-marco,MS MARCO,title
+arxiv:2102.12887v1,ms-marco,MS MARCO,title
+arxiv:2610.14816v2,ms-marco,MS MARCO,title
+arxiv:2412.12997v3,ms-marco,MS MARCO,title
+arxiv:1904.07531v4,ms-marco,MS MARCO,abstract
+arxiv:2010.10252v2,ms-marco,MS MARCO,abstract
+arxiv:2201.08471v1,ms-marco,MS MARCO,abstract
+arxiv:2305.00331v1,ms-marco,MS MARCO,abstract
+arxiv:2507.08890v1,ms-marco,MS MARCO,abstract
+arxiv:2206.14759v2,ms-marco,MS MARCO,abstract

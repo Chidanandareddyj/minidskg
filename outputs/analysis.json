@@ -1,0 +1,416 @@
+{
+  "nodes": 6652,
+  "edges": 8505,
+  "n_datasets": 78,
+  "n_papers": 1667,
+  "n_authors": 4871,
+  "n_tasks": 36,
+  "projection_connected": false,
+  "n_communities": 21,
+  "communities": [
+    [
+      "ADE20K",
+      "CLEVR",
+      "Cityscapes",
+      "Flickr30k",
+      "Human3.6M",
+      "KITTI",
+      "MPII Human Pose",
+      "MS COCO",
+      "ModelNet40",
+      "Pascal VOC",
+      "ShapeNet",
+      "VQA",
+      "Visual Genome",
+      "Waymo Open Dataset",
+      "nuScenes"
+    ],
+    [
+      "BoolQ",
+      "GLUE",
+      "GSM8K",
+      "HotpotQA",
+      "HumanEval",
+      "MBPP",
+      "MMLU",
+      "MultiNLI",
+      "Natural Questions",
+      "SNLI",
+      "SQuAD",
+      "SQuAD 2.0",
+      "SST-2",
+      "SuperGLUE",
+      "TriviaQA"
+    ],
+    [
+      "CIFAR-10",
+      "CIFAR-100",
+      "Caltech-101",
+      "Camelyon16",
+      "CelebA",
+      "Fashion-MNIST",
+      "ImageNet",
+      "MNIST",
+      "Oxford Flowers-102",
+      "Places365",
+      "STL-10",
+      "SVHN",
+      "Stanford Cars",
+      "Tiny ImageNet"
+    ],
+    [
+      "ActivityNet",
+      "HMDB51",
+      "Kinetics-400",
+      "Something-Something V2",
+      "UCF-101",
+      "YouTube-8M"
+    ],
+    [
+      "CNN/DailyMail",
+      "CiteSeer",
+      "Cora",
+      "PubMed",
+      "XSum",
+      "ogbn-arxiv"
+    ],
+    [
+      "CoNLL-2003",
+      "Penn Treebank",
+      "WikiText-103"
+    ],
+    [
+      "LibriSpeech",
+      "TIMIT",
+      "VoxCeleb"
+    ],
+    [
+      "CheXpert",
+      "ChestX-ray14",
+      "MIMIC-III"
+    ]
+  ],
+  "top_mentions": [
+    {
+      "id": "dataset:imagenet",
+      "name": "ImageNet",
+      "mentions": 106,
+      "h_index": 50
+    },
+    {
+      "id": "dataset:cifar-10",
+      "name": "CIFAR-10",
+      "mentions": 77,
+      "h_index": 32
+    },
+    {
+      "id": "dataset:mnist",
+      "name": "MNIST",
+      "mentions": 69,
+      "h_index": 29
+    },
+    {
+      "id": "dataset:squad",
+      "name": "SQuAD",
+      "mentions": 54,
+      "h_index": 22
+    },
+    {
+      "id": "dataset:ucf-101",
+      "name": "UCF-101",
+      "mentions": 48,
+      "h_index": 25
+    },
+    {
+      "id": "dataset:cifar-100",
+      "name": "CIFAR-100",
+      "mentions": 40,
+      "h_index": 10
+    },
+    {
+      "id": "dataset:pubmed",
+      "name": "PubMed",
+      "mentions": 35,
+      "h_index": 17
+    },
+    {
+      "id": "dataset:vqa",
+      "name": "VQA",
+      "mentions": 35,
+      "h_index": 24
+    },
+    {
+      "id": "dataset:snli",
+      "name": "SNLI",
+      "mentions": 34,
+      "h_index": 17
+    },
+    {
+      "id": "dataset:humaneval",
+      "name": "HumanEval",
+      "mentions": 33,
+      "h_index": 4
+    },
+    {
+      "id": "dataset:coco",
+      "name": "MS COCO",
+      "mentions": 32,
+      "h_index": 11
+    },
+    {
+      "id": "dataset:pascal-voc",
+      "name": "Pascal VOC",
+      "mentions": 32,
+      "h_index": 20
+    },
+    {
+      "id": "dataset:mmlu",
+      "name": "MMLU",
+      "mentions": 32,
+      "h_index": 6
+    },
+    {
+      "id": "dataset:cnn-dailymail",
+      "name": "CNN/DailyMail",
+      "mentions": 32,
+      "h_index": 15
+    },
+    {
+      "id": "dataset:cityscapes",
+      "name": "Cityscapes",
+      "mentions": 31,
+      "h_index": 14
+    }
+  ],
+  "top_h_index": [
+    {
+      "id": "dataset:imagenet",
+      "name": "ImageNet",
+      "h_index": 50,
+      "mentions": 106
+    },
+    {
+      "id": "dataset:cifar-10",
+      "name": "CIFAR-10",
+      "h_index": 32,
+      "mentions": 77
+    },
+    {
+      "id": "dataset:mnist",
+      "name": "MNIST",
+      "h_index": 29,
+      "mentions": 69
+    },
+    {
+      "id": "dataset:ucf-101",
+      "name": "UCF-101",
+      "h_index": 25,
+      "mentions": 48
+    },
+    {
+      "id": "dataset:vqa",
+      "name": "VQA",
+      "h_index": 24,
+      "mentions": 35
+    },
+    {
+      "id": "dataset:squad",
+      "name": "SQuAD",
+      "h_index": 22,
+      "mentions": 54
+    },
+    {
+      "id": "dataset:pascal-voc",
+      "name": "Pascal VOC",
+      "h_index": 20,
+      "mentions": 32
+    },
+    {
+      "id": "dataset:human36m",
+      "name": "Human3.6M",
+      "h_index": 20,
+      "mentions": 25
+    },
+    {
+      "id": "dataset:hmdb51",
+      "name": "HMDB51",
+      "h_index": 20,
+      "mentions": 28
+    },
+    {
+      "id": "dataset:ade20k",
+      "name": "ADE20K",
+      "h_index": 17,
+      "mentions": 22
+    }
+  ],
+  "top_betweenness": [
+    {
+      "id": "dataset:imagenet",
+      "name": "ImageNet",
+      "betweenness": 0.3287
+    },
+    {
+      "id": "dataset:boolq",
+      "name": "BoolQ",
+      "betweenness": 0.1608
+    },
+    {
+      "id": "dataset:ade20k",
+      "name": "ADE20K",
+      "betweenness": 0.1196
+    },
+    {
+      "id": "dataset:celeba",
+      "name": "CelebA",
+      "betweenness": 0.1067
+    },
+    {
+      "id": "dataset:multinli",
+      "name": "MultiNLI",
+      "betweenness": 0.0829
+    },
+    {
+      "id": "dataset:squad",
+      "name": "SQuAD",
+      "betweenness": 0.0809
+    },
+    {
+      "id": "dataset:ogbn-arxiv",
+      "name": "ogbn-arxiv",
+      "betweenness": 0.0764
+    },
+    {
+      "id": "dataset:vqa",
+      "name": "VQA",
+      "betweenness": 0.0712
+    },
+    {
+      "id": "dataset:citeseer",
+      "name": "CiteSeer",
+      "betweenness": 0.0671
+    },
+    {
+      "id": "dataset:pubmed",
+      "name": "PubMed",
+      "betweenness": 0.0617
+    }
+  ],
+  "degree_centrality_sample": {
+    "ImageNet": 0.364,
+    "CIFAR-10": 0.195,
+    "MNIST": 0.13,
+    "SQuAD": 0.104,
+    "UCF-101": 0.078,
+    "CIFAR-100": 0.13,
+    "PubMed": 0.078,
+    "VQA": 0.078
+  },
+  "closeness_available": false,
+  "similar_to_imagenet": [
+    {
+      "id": "dataset:tiny-imagenet",
+      "name": "Tiny ImageNet",
+      "jaccard": 0.236
+    },
+    {
+      "id": "dataset:cifar-10",
+      "name": "CIFAR-10",
+      "jaccard": 0.123
+    },
+    {
+      "id": "dataset:ucf-101",
+      "name": "UCF-101",
+      "jaccard": 0.085
+    },
+    {
+      "id": "dataset:places365",
+      "name": "Places365",
+      "jaccard": 0.083
+    },
+    {
+      "id": "dataset:cifar-100",
+      "name": "CIFAR-100",
+      "jaccard": 0.081
+    }
+  ],
+  "problem_search": {
+    "query": "object detection in autonomous driving",
+    "hits": [
+      {
+        "id": "dataset:waymo-open",
+        "name": "Waymo Open Dataset",
+        "score": 49.0
+      },
+      {
+        "id": "dataset:nuscenes",
+        "name": "nuScenes",
+        "score": 43.0
+      },
+      {
+        "id": "dataset:kitti",
+        "name": "KITTI",
+        "score": 37.0
+      },
+      {
+        "id": "dataset:imagenet",
+        "name": "ImageNet",
+        "score": 29.0
+      },
+      {
+        "id": "dataset:pascal-voc",
+        "name": "Pascal VOC",
+        "score": 28.0
+      },
+      {
+        "id": "dataset:coco",
+        "name": "MS COCO",
+        "score": 18.0
+      },
+      {
+        "id": "dataset:shapenet",
+        "name": "ShapeNet",
+        "score": 17.0
+      },
+      {
+        "id": "dataset:cifar-10",
+        "name": "CIFAR-10",
+        "score": 14.0
+      }
+    ]
+  },
+  "papers_using_imagenet_sample": [
+    {
+      "id": "paper:W4394639701",
+      "name": "CINIC-10 is not ImageNet or CIFAR-10"
+    },
+    {
+      "id": "paper:W2895171208",
+      "name": "CINIC-10 Is Not ImageNet or CIFAR-10"
+    },
+    {
+      "id": "paper:W3005344570",
+      "name": "CIFAR-10 Image Classification Using Feature Ensembles"
+    },
+    {
+      "id": "paper:W4393833062",
+      "name": "CIFAR-10-R dataset"
+    },
+    {
+      "id": "paper:W4393469805",
+      "name": "CIFAR-100-R dataset"
+    },
+    {
+      "id": "paper:W4220764408",
+      "name": "Hiddenite: 4K-PE Hidden Network Inference 4D-Tensor Engine Exploiting On-Chip Model Construction Achieving 34.8-to-16.0TOPS/W for CIFAR-100 and ImageNet"
+    },
+    {
+      "id": "paper:W2801783499",
+      "name": "Image Augmentation for Object Image Classification Based On Combination of Pre-Trained CNN and SVM"
+    },
+    {
+      "id": "paper:W2603142085",
+      "name": "Scaling the Scattering Transform: Deep Hybrid Networks"
+    }
+  ]
+}

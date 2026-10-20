@@ -1,0 +1,79 @@
+id,name,aliases,task,license,homepage,year
+mnist,MNIST,MNIST|MNIST dataset,image-classification,CC BY-SA 3.0,http://yann.lecun.com/exdb/mnist/,1998
+fashion-mnist,Fashion-MNIST,Fashion-MNIST|Fashion MNIST,image-classification,MIT,https://github.com/zalandoresearch/fashion-mnist,2017
+cifar-10,CIFAR-10,CIFAR-10|CIFAR10|CIFAR 10,image-classification,unknown,https://www.cs.toronto.edu/~kriz/cifar.html,2009
+cifar-100,CIFAR-100,CIFAR-100|CIFAR100|CIFAR 100,image-classification,unknown,https://www.cs.toronto.edu/~kriz/cifar.html,2009
+stl-10,STL-10,STL-10|STL10,image-classification,unknown,https://cs.stanford.edu/~acoates/stl10/,2011
+svhn,SVHN,SVHN|Street View House Numbers,image-classification,unknown,http://ufldl.stanford.edu/housenumbers/,2011
+imagenet,ImageNet,ImageNet|ILSVRC|ImageNet-1K|ImageNet1k|ImageNet 1K,image-classification,custom,https://www.image-net.org/,2009
+tiny-imagenet,Tiny ImageNet,Tiny ImageNet|Tiny-ImageNet,image-classification,custom,https://www.kaggle.com/c/tiny-imagenet,2015
+places365,Places365,Places365|Places 365,scene-recognition,custom,http://places2.csail.mit.edu/,2017
+caltech-101,Caltech-101,Caltech-101|Caltech101,image-classification,unknown,https://data.caltech.edu/records/mzrjq-6wc02,2003
+flowers-102,Oxford Flowers-102,Flowers-102|Oxford Flowers|Oxford 102 Flower,image-classification,unknown,https://www.robots.ox.ac.uk/~vgg/data/flowers/102/,2008
+stanford-cars,Stanford Cars,Stanford Cars|Cars196|Stanford Cars dataset,fine-grained-recognition,unknown,https://ai.stanford.edu/~jkrause/cars/car_dataset.html,2013
+celeba,CelebA,CelebA|CelebA dataset,face-recognition,custom,https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html,2015
+lfw,LFW,LFW|Labeled Faces in the Wild,face-recognition,unknown,http://vis-www.cs.umass.edu/lfw/,2007
+wider-face,WIDER FACE,WIDER FACE|WIDER Face,face-detection,custom,http://shuoyang1213.me/WIDERFACE/,2016
+coco,MS COCO,MS COCO|MS-COCO|COCO dataset|COCO 2014|COCO 2017|Microsoft COCO,object-detection,CC BY 4.0,https://cocodataset.org/,2014
+pascal-voc,Pascal VOC,Pascal VOC|PASCAL VOC|VOC2007|VOC2012,object-detection,custom,http://host.robots.ox.ac.uk/pascal/VOC/,2007
+open-images,Open Images,Open Images|OpenImages|Open Images Dataset,object-detection,CC BY 4.0,https://storage.googleapis.com/openimages/web/index.html,2018
+cityscapes,Cityscapes,Cityscapes|Cityscapes dataset,semantic-segmentation,custom,https://www.cityscapes-dataset.com/,2016
+ade20k,ADE20K,ADE20K|ADE20k,semantic-segmentation,custom,https://groups.csail.mit.edu/vision/datasets/ADE20K/,2017
+kitti,KITTI,KITTI|KITTI dataset|KITTI Vision Benchmark,autonomous-driving,CC BY-NC-SA 3.0,https://www.cvlibs.net/datasets/kitti/,2012
+nuscenes,nuScenes,nuScenes|nuScenes dataset,autonomous-driving,CC BY-NC-SA 4.0,https://www.nuscenes.org/,2019
+waymo-open,Waymo Open Dataset,Waymo Open Dataset|Waymo Open|Waymo dataset,autonomous-driving,custom,https://waymo.com/open/,2019
+mpii,MPII Human Pose,MPII|MPII Human Pose|MPII Pose,pose-estimation,custom,http://human-pose.mpi-inf.mpg.de/,2014
+human36m,Human3.6M,Human3.6M|Human3.6m|Human 3.6M,3d-pose-estimation,custom,http://vision.imar.ro/human3.6m/,2014
+kinetics-400,Kinetics-400,Kinetics-400|Kinetics400|Kinetics 400,action-recognition,custom,https://www.deepmind.com/open-source/kinetics,2017
+ucf-101,UCF-101,UCF-101|UCF101,action-recognition,unknown,https://www.crcv.ucf.edu/data/UCF101.php,2012
+hmdb51,HMDB51,HMDB51|HMDB-51|HMDB 51,action-recognition,custom,https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/,2011
+ssv2,Something-Something V2,Something-Something V2|Something-Something-V2|SSv2,action-recognition,custom,https://developer.qualcomm.com/software/ai-datasets/something-something,2018
+activitynet,ActivityNet,ActivityNet|ActivityNet dataset,temporal-action-localization,custom,http://activity-net.org/,2015
+youtube-8m,YouTube-8M,YouTube-8M|Youtube-8M,video-classification,custom,https://research.google.com/youtube8m/,2016
+visual-genome,Visual Genome,Visual Genome,visual-question-answering,CC BY 4.0,https://homes.cs.washington.edu/~ranjay/visualgenome/,2016
+vqa,VQA,VQA v2|VQA 2.0|Visual Question Answering dataset,visual-question-answering,CC BY 4.0,https://visualqa.org/,2015
+clevr,CLEVR,CLEVR|CLEVR dataset,visual-reasoning,CC BY 4.0,https://cs.stanford.edu/people/jcjohns/clevr/,2017
+flickr30k,Flickr30k,Flickr30k|Flickr30K|Flickr 30k,image-captioning,custom,https://shannon.cs.illinois.edu/DenotationGraph/,2014
+modelnet40,ModelNet40,ModelNet40|ModelNet-40|ModelNet,3d-object-classification,custom,https://modelnet.cs.princeton.edu/,2015
+shapenet,ShapeNet,ShapeNet|ShapeNetCore,3d-shape-modeling,custom,https://shapenet.org/,2015
+squad,SQuAD,SQuAD|SQuAD 1.1|Stanford Question Answering Dataset,question-answering,CC BY-SA 4.0,https://rajpurkar.github.io/SQuAD-explorer/,2016
+squad-2,SQuAD 2.0,SQuAD 2.0|SQuAD2|SQuAD 2,question-answering,CC BY-SA 4.0,https://rajpurkar.github.io/SQuAD-explorer/,2018
+natural-questions,Natural Questions,Natural Questions|NQ dataset,question-answering,CC BY-SA 3.0,https://ai.google.com/research/NaturalQuestions,2019
+triviaqa,TriviaQA,TriviaQA,question-answering,Apache-2.0,https://nlp.cs.washington.edu/triviaqa/,2017
+hotpotqa,HotpotQA,HotpotQA|Hotpot QA,question-answering,CC BY-SA 4.0,https://hotpotqa.github.io/,2018
+ms-marco,MS MARCO,MS MARCO|MS-MARCO|MSMARCO|msmarco|Microsoft MARCO,question-answering,custom,https://microsoft.github.io/msmarco/,2016
+glue,GLUE,GLUE benchmark|GLUE,natural-language-understanding,custom,https://gluebenchmark.com/,2018
+superglue,SuperGLUE,SuperGLUE|SuperGLUE benchmark,natural-language-understanding,custom,https://super.gluebenchmark.com/,2019
+snli,SNLI,SNLI|Stanford NLI|Stanford Natural Language Inference,natural-language-inference,CC BY-SA 4.0,https://nlp.stanford.edu/projects/snli/,2015
+multinli,MultiNLI,MultiNLI|MNLI,natural-language-inference,CC BY-SA 4.0,https://cims.nyu.edu/~sbowman/multinli/,2018
+sst-2,SST-2,SST-2|SST2|Stanford Sentiment Treebank,sentiment-analysis,custom,https://nlp.stanford.edu/sentiment/,2013
+imdb,IMDb reviews,IMDb dataset|IMDB reviews|IMDb movie reviews,sentiment-analysis,custom,https://ai.stanford.edu/~amaas/data/sentiment/,2011
+ag-news,AG News,AG News|AGNews,text-classification,custom,http://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html,2005
+20newsgroups,20 Newsgroups,20 Newsgroups|20Newsgroups,text-classification,unknown,http://qwone.com/~jason/20Newsgroups/,1995
+conll-2003,CoNLL-2003,CoNLL-2003|CoNLL 2003,named-entity-recognition,custom,https://www.clips.uantwerpen.be/conll2003/ner/,2003
+wikitext-103,WikiText-103,WikiText-103|WikiText103|WikiText 103,language-modeling,CC BY-SA 3.0,https://blog.salesforceairesearch.com/the-wikitext-long-term-dependency-language-modeling-dataset/,2016
+penn-treebank,Penn Treebank,Penn Treebank|PTB dataset,language-modeling,LDC,https://catalog.ldc.upenn.edu/LDC99T42,1993
+cnn-dailymail,CNN/DailyMail,CNN/DailyMail|CNN DailyMail|CNN-DailyMail,summarization,Apache-2.0,https://github.com/abisee/cnn-dailymail,2016
+xsum,XSum,XSum|XSum dataset,summarization,custom,https://github.com/EdinburghNLP/XSum,2018
+wmt14,WMT14,WMT14|WMT 2014|WMT'14,machine-translation,custom,https://www.statmt.org/wmt14/,2014
+boolq,BoolQ,BoolQ,question-answering,CC BY-SA 3.0,https://github.com/google-research-datasets/boolean-questions,2019
+gsm8k,GSM8K,GSM8K|GSM8k|Grade School Math 8K,mathematical-reasoning,MIT,https://github.com/openai/grade-school-math,2021
+mmlu,MMLU,MMLU|Massive Multitask Language Understanding,language-understanding,MIT,https://github.com/hendrycks/test,2021
+humaneval,HumanEval,HumanEval|HumanEval dataset,code-generation,MIT,https://github.com/openai/human-eval,2021
+mbpp,MBPP,MBPP|Mostly Basic Python Problems,code-generation,CC BY 4.0,https://github.com/google-research/google-research/tree/master/mbpp,2021
+librispeech,LibriSpeech,LibriSpeech|LibriSpeech ASR,speech-recognition,CC BY 4.0,https://www.openslr.org/12,2015
+common-voice,Common Voice,Common Voice|Mozilla Common Voice,speech-recognition,CC0,https://commonvoice.mozilla.org/,2017
+timit,TIMIT,TIMIT,speech-recognition,LDC,https://catalog.ldc.upenn.edu/LDC93S1,1993
+voxceleb,VoxCeleb,VoxCeleb|VoxCeleb1|VoxCeleb2,speaker-recognition,custom,https://www.robots.ox.ac.uk/~vgg/data/voxceleb/,2017
+aishell-1,AISHELL-1,AISHELL-1|AISHELL1|AISHELL,speech-recognition,Apache-2.0,https://www.openslr.org/33/,2017
+movielens,MovieLens,MovieLens|MovieLens 1M|MovieLens 20M,recommendation,custom,https://grouplens.org/datasets/movielens/,1998
+amazon-reviews,Amazon Reviews,Amazon Reviews dataset|Amazon product reviews,recommendation,custom,https://nijianmo.github.io/amazon/index.html,2018
+yelp,Yelp Open Dataset,Yelp dataset|Yelp Open Dataset|Yelp reviews,sentiment-analysis,custom,https://www.yelp.com/dataset,2014
+cora,Cora,Cora dataset,node-classification,unknown,https://linqs.soe.ucsc.edu/data,2000
+citeseer,CiteSeer,CiteSeer|Citeseer dataset,node-classification,unknown,https://linqs.soe.ucsc.edu/data,2000
+pubmed,PubMed,PubMed dataset|Pubmed diabetes,node-classification,unknown,https://linqs.soe.ucsc.edu/data,2000
+ogbn-arxiv,ogbn-arxiv,ogbn-arxiv|OGBN-Arxiv,node-classification,ODC-BY,https://ogb.stanford.edu/docs/nodeprop/#ogbn-arxiv,2020
+mimic-iii,MIMIC-III,MIMIC-III|MIMIC III|MIMIC-3,clinical-nlp,PhysioNet,https://physionet.org/content/mimiciii/,2016
+chexpert,CheXpert,CheXpert,medical-imaging,custom,https://stanfordmlgroup.github.io/competitions/chexpert/,2019
+chestxray14,ChestX-ray14,ChestX-ray14|ChestX-ray 14|NIH ChestX-ray,medical-imaging,custom,https://nihcc.app.box.com/v/ChestXray-NIHCC,2017
+camelyon16,Camelyon16,Camelyon16|CAMELYON16,medical-imaging,CC0,https://camelyon16.grand-challenge.org/,2016
