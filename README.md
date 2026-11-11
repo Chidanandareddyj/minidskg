@@ -143,6 +143,8 @@ You can open these files:
 - `outputs/analysis.json`: the numbers
 - `Mini-DSKG_Presentation_v2.pptx`: the slides
 
+Demo video: https://docs.google.com/videos/d/1PVXVxYtTGVNr7ZXykrJ991wtMiqRfMmP9RMUbmgHxhw/play?usp=sharing
+
 You can ask these questions:
 
 - Which datasets occur in the most papers?
