@@ -141,6 +141,7 @@ You can open these files:
 - `notebooks/mini_dskg.ipynb`: the demonstration notebook
 - `outputs/explorer.html`: the graph in a browser
 - `outputs/analysis.json`: the numbers
+- `Mini-DSKG_Presentation_v2.pptx`: the slides
 
 You can ask these questions:
 
@@ -175,3 +176,10 @@ If the problem text is "object detection in autonomous driving", the graph puts 
 1. Waymo Open Dataset
 2. nuScenes
 3. KITTI
+
+## 7. Team
+
+- Name: Chidananda Reddy Jonnala
+- Roll number: 23BCB7264
+- Phone: +919885228387
+- Email: chidanandareddyjonnala@gmail.com
